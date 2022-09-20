@@ -40,7 +40,7 @@ After then we have 2 more steps to do:
 
 # Macdown language
 
-###For build a good post nice to look and read we need to used some different writting
+### For build a good post nice to look and read we need to used some different writting
 
 When we want put different size of title we need to used `#`:
 
