@@ -11,7 +11,7 @@ Making NoteBook post on Github step
 
 ### Open terminal onws my computer and now we can start the process.
 
-`cd Dropbox/MyProjects/PierrickHarnay_NoteBook` *this step permit to show the direction*
+`cd Dropbox/MyProjects/Notebook-Directory/PierrickHarnay_NoteBook` *this step permit to show the direction*
 
 
 `cd _posts` *this step open the file we want on finder files*
