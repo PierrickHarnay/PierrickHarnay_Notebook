@@ -76,8 +76,11 @@ The transects will be carried out on 3 sites per side of the island in order to 
   
 ![Moorea_TPC_Transect_site](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/Moorea_TPC_Transect_site.jpg)
 
-The sites considered for the remainder of the study (ajouter map de Mo'orea avec les nouveaux sites)
+The sites considered for the remainder of the study  
 
+![Moorea_TPC_Transect_site_avenir](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/Moorea_TPC_Transect_site_avenir.jpg)  
+
+Black squares are future transect sites. The red squares are the sites already realized (n=7)  
 
 
 **Where the transect are:**  
