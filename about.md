@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am futur PhD student in marine ecology and physiology science in PutnamLAb. Mon projet vas se baser sur Genetic, functional and reproductive diversity of Pocillopora in the lagoon of Mo’orea. 
+I am futur PhD student in marine ecology and physiology science in PutnamLAb. My project will be based on Genetic, functional and reproductive diversity of Pocillopora in the lagoon of Mo’orea. 
  
 
 ### More Information
