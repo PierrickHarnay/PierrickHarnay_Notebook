@@ -24,6 +24,7 @@ so for doing that used:
 After then we have 2 more steps to do:
 `Categories` for choising on what categrorie we want find our post and `tag` to give us more details for witch categorie
 
+We need to change the name of the file. When we create the file the name going to be like this `-n 2022-09-19--ne-Pocillopora-Transect-` but we need to change for `2022-09-19-Pocillopora-Transect`for example
 
 # Second step
 
