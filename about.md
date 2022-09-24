@@ -36,8 +36,8 @@ https://pierrickharnay.github.io/PierrickHarnay_Notebook/
 		- Aquaculture   
 		
 2013-2016 | **Lycée Jeanne Antide**   
-*2015-2016* | Certificate of competence for the sale of non-domestic animals of captive wildlife (List E5-E7, TCVA)   
-*2013-2015* | Professional baccalaureate Technician Sales Consultant in Pet Shop   
+*2015-2016* Certificate of competence for the sale of non-domestic animals of captive wildlife (List E5-E7, TCVA)   
+*2013-2015* Professional baccalaureate Technician Sales Consultant in Pet Shop   
 ### Professional Experience
 2022 | ***Universiy of Rhode Island - Rhode Island, USA***
 		- Supervisors - Dr. Hollie Putnam
