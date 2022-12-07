@@ -87,7 +87,7 @@ Our study is based on population genetics of *Pocillopora sp.* on the Polynesian
 **Map of the studies zone:**  
 All sites on the map below are the sites that will be conducted for the study of population genetics of Pocillopora sp. 
   
-![MOOREA_RELATIVE_ABUNDANCE](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/MOOREA_RELATIVE_ABUNDANCE.JPG)
+![MOOREA_RELATIVE_ABUNDANCE](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/MOOREA_RELATIVE_ABUNDANCE.png)
 
 **Site GPS position:**  
 All the point bellow matches to red point on the above map
