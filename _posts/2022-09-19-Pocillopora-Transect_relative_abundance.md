@@ -54,7 +54,6 @@ Our study is based on population genetics of *Pocillopora sp.* on the Polynesian
 10. Return to the start of the transect and begin the coral sampling steps 
 11. At the beginning of each transect, take a photo of the storage bag so that the photos do not get mixed up during processing.
 12. Take a picture of the colony in the global view and of the colony in the closer view by placing the colored ruler close to the colony (see pictures bellow)  
-![POC_image](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/POC-234-T3.JPG)  
 
 ![POC-178](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/POC-178-C.JPG) 
        
