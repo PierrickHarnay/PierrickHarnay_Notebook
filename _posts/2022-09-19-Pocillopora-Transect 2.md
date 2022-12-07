@@ -47,18 +47,23 @@ Our study is based on population genetics of *Pocillopora sp.* on the Polynesian
 5. Draw the 50 m transect in the desired direction
 6. Using the GPS, take the starting point of the transect as well as the end point
 7. Follow the transect by filming the transect with a Gopro (to keep track of the transect in case of doubt during analysis and/or need for more information on the transect)
-8. At the beginning of each transect, take a photo of the storage bag so that the photos do not get mixed up during processing.
-9. Take a picture of the colony in the global view and of the colony in the closer view by placing the colored ruler close to the colony (see pictures bellow)  
+8. Use the photo quadrat and start tracking by quadrats
+9. Placed the quadrats every two meters by having the quadrats centered on the transect in order to have **25cm** on each side **n=25** (see figure bellow)  
+![POC-178-COLOR](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/POC-178-COLOR.JPG) 
+10. Return to the start of the transect and begin the coral sampling steps 
+11. At the beginning of each transect, take a photo of the storage bag so that the photos do not get mixed up during processing.
+12. Take a picture of the colony in the global view and of the colony in the closer view by placing the colored ruler close to the colony (see pictures bellow)  
 ![POC-178-COLOR](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/POC-178-COLOR.JPG)  
 ![POC-178](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/POC-178.JPG)      
 ![POC_TPC](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/POC_TPC.JPG) 
-10. Take a picture of the bag that will contain the sample  
-11. Sample a fragment of a branch of about 4-5cm maximum (depending on the size of the colony)
-12. Close the sample bag
-13. Place the bag in the meshbag assigned to the transect number
-14. Proceed to the next colony 
-15. At the end of each transect, take a random photo to separate the transect photos
-16. Proceed to the next transect by repeating the steps listed on the protocol.
+13. Take a picture of the bag that will contain the sample  
+14. Sample a fragment of a branch of about 4-5cm maximum (depending on the size of the colony). **Each sample collecting need to be on the transect line or at 25cm to the left or right to the line maximum** (see figure bellow) 
+![POC-178-COLOR](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/POC-178-COLOR.JPG) 
+15. Close the sample bag
+16. Place the bag in the meshbag assigned to the transect number
+17. Proceed to the next colony 
+18. At the end of each transect, take a random photo to separate the transect photos
+19. Proceed to the next transect by repeating the steps listed on the protocol.
 
 ### When you come back to the field   
 1. Put the samples in a freezer at -80°C in case the extraction or other analyses are not carried out directly afterwards.
