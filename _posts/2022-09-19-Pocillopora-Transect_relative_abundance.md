@@ -49,17 +49,22 @@ Our study is based on population genetics of *Pocillopora sp.* on the Polynesian
 7. Follow the transect by filming the transect with a Gopro (to keep track of the transect in case of doubt during analysis and/or need for more information on the transect)
 8. Use the photo quadrat and start tracking by quadrats
 9. Placed the quadrats every two meters by having the quadrats centered on the transect in order to have **25cm** on each side **n=25** (see figure bellow)  
-![Protocol_quadrat_POC](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/Protocol_quadrat_POC.JPG)  
+![QUADRAT_PROTOCOL](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/QUADRAT_PROTOCOL.JPG)  
  
 10. Return to the start of the transect and begin the coral sampling steps 
 11. At the beginning of each transect, take a photo of the storage bag so that the photos do not get mixed up during processing.
 12. Take a picture of the colony in the global view and of the colony in the closer view by placing the colored ruler close to the colony (see pictures bellow)  
 ![POC-178-COLOR](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/POC-178-COLOR.JPG)  
-![POC-178](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/POC-178.JPG)        
-![POC_TPC](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/POC_TPC.JPG)   
+
+![POC-178](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/POC-178.JPG) 
+       
+![POC_TPC](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/POC_TPC.JPG) 
+  
 13. Take a picture of the bag that will contain the sample  
 14. Sample a fragment of a branch of about 4-5cm maximum (depending on the size of the colony). **Each sample collecting need to be on the transect line or at 25cm to the left or right to the line maximum** (see figure bellow) 
+
 ![Protocol_transect_POC](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/Protocol_transect_POC.JPG) 
+
 15. Close the sample bag
 16. Place the bag in the meshbag assigned to the transect number
 17. Proceed to the next colony 
@@ -82,7 +87,7 @@ Our study is based on population genetics of *Pocillopora sp.* on the Polynesian
 **Map of the studies zone:**  
 All sites on the map below are the sites that will be conducted for the study of population genetics of Pocillopora sp. 
   
-![Moorea_relative_aboundance](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/Final_plot_transect_POC.jpg)
+![MOOREA_RELATIVE_ABUNDANCE](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/MOOREA_RELATIVE_ABUNDANCE.JPG)
 
 **Site GPS position:**  
 All the point bellow matches to red point on the above map
