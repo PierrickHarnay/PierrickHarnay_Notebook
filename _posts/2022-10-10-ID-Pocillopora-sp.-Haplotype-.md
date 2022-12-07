@@ -110,7 +110,7 @@ GPS coord : -17.477083,	-149.805972
 
 ### *POC 165*
 
-<img src="https://github.com/PierrickHarnay/PierrickHarnay_Notebook/blob/master/images/POC-165-C.JPG?raw=true" width=50% height=50%>
+<img src="https://github.com/PierrickHarnay/PierrickHarnay_Notebook/blob/master/images/POC-165-COLOR-C.JPG?raw=true" width=50% height=50%>
 
 Morphology : Grandis
 
@@ -130,7 +130,7 @@ GPS coord : -17,47694600	-149,80592800
 
 ### *POC 167*
 
-<img src="https://github.com/PierrickHarnay/PierrickHarnay_Notebook/blob/master/images/POC-167-C.JPG?raw=true" width=50% height=50%>
+<img src="https://github.com/PierrickHarnay/PierrickHarnay_Notebook/blob/master/images/POC-167-COLOR-C.JPG?raw=true" width=50% height=50%>
 
 Morphology : Grandis
 
