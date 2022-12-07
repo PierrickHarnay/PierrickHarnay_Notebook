@@ -54,16 +54,16 @@ Our study is based on population genetics of *Pocillopora sp.* on the Polynesian
 10. Return to the start of the transect and begin the coral sampling steps 
 11. At the beginning of each transect, take a photo of the storage bag so that the photos do not get mixed up during processing.
 12. Take a picture of the colony in the global view and of the colony in the closer view by placing the colored ruler close to the colony (see pictures bellow)  
-![POC-178-COLOR](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/POC-178-COLOR.JPG)  
+![POC_image](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/POC-167-COLOR.JPG)  
 
-![POC-178](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/POC-178.JPG) 
+![POC-178](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/POC-178-C.JPG) 
        
 ![POC_TPC](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/POC_TPC.JPG) 
   
 13. Take a picture of the bag that will contain the sample  
 14. Sample a fragment of a branch of about 4-5cm maximum (depending on the size of the colony). **Each sample collecting need to be on the transect line or at 25cm to the left or right to the line maximum** (see figure bellow) 
 
-![Protocol_transect_POC](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/Protocol_transect_POC.JPG) 
+![TRANSECT_PROTOCOL](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/TRANSECT_PROTOCOL.JPG) 
 
 15. Close the sample bag
 16. Place the bag in the meshbag assigned to the transect number
