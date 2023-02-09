@@ -10,9 +10,8 @@ tags: Fragmentation
 ## Materiels
 ### Regular stuff you need to do fragmentation
 - Gryphon coral saw with all the stuff to run correctly the saw (sponge x2, balde)
-- Recipe for water 
-- Recipe for corals 
-- Recipe for usless part or part don't used
+- Box for water 
+- Box for corals 
 - Paper towel
 - Gloves 
 - Cliper 
@@ -20,7 +19,7 @@ tags: Fragmentation
 ### If you want put the fragment on plugs
 - Plugs 
 - Glue 
-- Recipe for plugs 
+- Box for plugs 
 
 ## Step 
 ### 1 Fragmentation station setup
@@ -70,5 +69,3 @@ tags: Fragmentation
 - Remove the blade from its axle using the leveling screw on the left side of the saw (pick #X) and rinse it with fresh water
 - Arrange all saw components so that the saw dries naturally.
 - Once dry, store the components in the water container, put on the protective plates and store the saw in its dedicated place. 
-
-
