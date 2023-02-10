@@ -44,7 +44,10 @@ Our study is based on population genetics of *Pocillopora sp.* on the Polynesian
 2. Check equipment and compare to above list 
 3. Load the boat 
 4. Once you arrive on site, define who does what and do not change during the trip to avoid missing any step
-5. Draw the 50 m transect in the desired direction
+5. Draw the 50 m transect in the desired direction (North, South, West, East)
+
+![Transect_example](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/Transect_example.JPG)  
+
 6. Using the GPS, take the starting point of the transect as well as the end point
 7. Follow the transect by filming the transect with a Gopro (to keep track of the transect in case of doubt during analysis and/or need for more information on the transect)
 8. Use the photo quadrat and start tracking by quadrats
@@ -113,5 +116,63 @@ All the point bellow matches to red point on the above map
 | site17    | W 149.923545517018 | S 17.5108598525766 |
 | site18    | W 149.923940368089 | S 17.4937812139175 |  
 
+## Some example of the pictures in the field 
+![photo_recrue](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/photo_recrue.png)
+
+## Note from the field
+### Site 4 - 05102022 | 06102022 | 07102022
+1. People: Dr Ariana Huffmyer - Danielle Becker - Pierrick Harnay
+2. Transect Performed: T1, T2, T3 (05102022) | T4, T5, T6 (06102022) | T7 (07102022)
+
+| Coord      | Longitude | Latitude |
+|------------|-----------|----------|
+| Transect 1 |           |          |
+| Transect 2 |           |          |
+| Transect 3 |           |          |
+| Transect 4 |           |          |
+| Transect 5 |           |          |
+| Transect 6 |           |          |
+| Transect 7 |           |          |
+
+![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
+
+3. Number of corals collected: T1 (36), T2 (26), T3 (29), T4 (20), T5 (43), T6 (43), T7 (7)
+4. Total number of samples: 204
+
+### Site 3
+1. People:  Arnaud Fabregues - Pierrick Harnay
+2. Transect Performed: T1, T2, T3 (04022023) | T4, T5, T6 (06102022) 
+
+| Coord      | Longitude | Latitude |
+|------------|-----------|----------|
+| Transect 1 |           |          |
+| Transect 2 |           |          |
+| Transect 3 |           |          |
+| Transect 4 |           |          |
+| Transect 5 |           |          |
+| Transect 6 |           |          |
+
+![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
+
+3. Number of corals collected: T1 (41), T2 (17), T3 (26), T4 (33), T5 (9), T6 (8)
+4. Total number of samples: 134
+
+### Site 3
+1. People:  Arnaud Fabregues - Pierrick Harnay
+2. Transect Performed: T1 (07022023), T2 (X), T3 (X) T4 (X), T5 (X), T6 (X) 
+
+| Coord      | Longitude | Latitude |
+|------------|-----------|----------|
+| Transect 1 |           |          |
+| Transect 2 |           |          |
+| Transect 3 |           |          |
+| Transect 4 |           |          |
+| Transect 5 |           |          |
+| Transect 6 |           |          |
+
+3. Number of corals collected: T1 (126), T2 (X), T3 (X), T4 (X), T5 (X), T6 (X)
+4. Total number of samples: XXX
+
+![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
 
 
