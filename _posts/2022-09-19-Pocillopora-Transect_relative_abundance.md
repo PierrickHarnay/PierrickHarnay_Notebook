@@ -116,7 +116,7 @@ All the point bellow matches to red point on the above map
 | site17    | W 149.923545517018 | S 17.5108598525766 |
 | site18    | W 149.923940368089 | S 17.4937812139175 |  
 
-## Some example of the pictures in the field 
+## Pictures from the field 
 ![photo_recrue](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/photo_recrue.png)
 
 ## Note from the field
