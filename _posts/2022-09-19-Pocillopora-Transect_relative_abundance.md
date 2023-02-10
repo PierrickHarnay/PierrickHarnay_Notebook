@@ -121,8 +121,10 @@ All the point bellow matches to red point on the above map
 
 ## Note from the field
 ### Site 4 - 05102022 | 06102022 | 07102022
+
 1. People: Dr Ariana Huffmyer - Danielle Becker - Pierrick Harnay
 2. Transect Performed: T1, T2, T3 (05102022) | T4, T5, T6 (06102022) | T7 (07102022)
+
 
 | Coord      | Longitude | Latitude |
 |------------|-----------|----------|
@@ -142,6 +144,7 @@ All the point bellow matches to red point on the above map
 ### Site 3
 1. People:  Arnaud Fabregues - Pierrick Harnay
 2. Transect Performed: T1, T2, T3 (04022023) | T4, T5, T6 (06102022) 
+
 
 | Coord      | Longitude | Latitude |
 |------------|-----------|----------|
