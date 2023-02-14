@@ -160,9 +160,9 @@ All the point bellow matches to red point on the above map
 3. Number of corals collected: T1 (**41**), T2 (**17**), T3 (**26**), T4 (**33**), T5 (**9**), T6 (**8**)
 4. Total number of samples: **134**
 
-### Site 3
+### Site 5
 1. People:  Arnaud Fabregues - Pierrick Harnay
-2. Transect Performed: T1 (07022023), T2 (X), T3 (X) T4 (X), T5 (X), T6 (X) 
+2. Transect Performed: T1 (07022023), T2 (12022023), T3 (X) T4 (X), T5 (X), T6 (X) 
 
 | Coord      | Longitude | Latitude |
 |------------|-----------|----------|
@@ -173,7 +173,7 @@ All the point bellow matches to red point on the above map
 | Transect 5 |           |          |
 | Transect 6 |           |          |
 
-3. Number of corals collected: T1 (**126**), T2 (**X**), T3 (**X**), T4 (**X**), T5 (**X**), T6 (**X**)
+3. Number of corals collected: T1 (**126**), T2 (**152**), T3 (**X**), T4 (**X**), T5 (**X**), T6 (**X**)
 4. Total number of samples: **XXX**
 
 ![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
