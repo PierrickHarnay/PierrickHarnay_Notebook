@@ -150,7 +150,6 @@ All the point bellow matches to red point on the above map
 1. People:  Arnaud Fabregues - Pierrick Harnay
 2. Transect Performed: T1, T2, T3 (04022023) | T4, T5, T6 (06102022) 
 
-
 | Coord            | GPS Name | Longitude  | Latitude   |
 |------------------|----------|------------|------------|
 | Transect 1 Start | POCS3T1S | -17,478309 | -149,83423 |
