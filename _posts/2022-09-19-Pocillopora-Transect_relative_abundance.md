@@ -120,10 +120,33 @@ All the point bellow matches to red point on the above map
 ![photo_recrue](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/photo_recrue.png)
 
 ## Note from the field
-### Site 4 
-1. People: Dr Ariana Huffmyer - Danielle Becker - Pierrick Harnay
-2. Transect Performed: T1, T2, T3 (05102022) | T4, T5, T6 (06102022) | T7 (07102022)
+### Site 1
+1. People:  Arnaud Fabregues - Pierrick Harnay
+2. Transect Performed: T1 (20022023), T2 (20022023), T3 (21022023) T4 (21022023), T5 (21022023), T6 (21022023) 
 
+| Coord            | GPS Name  | Longitude  | Latitude   |
+|------------------|-----------|------------|------------|
+| Transect 1 Start | POCS1T1S  | -17,485215 | -149,87652 |
+| Transect 1 End   | POCS1T1E  | -17,484791 | -149,87643 |
+| Transect 2 Start | POCS1T2S  | -17,485172 | -149,87637 |
+| Transect 2 End   | POCS1T2E  | -17,484828 | -149,87619 |
+| Transect 3 Start | POCS1T3S  | -17,485217 | -149,87616 |
+| Transect 3 End   | POCS1T3E  | -17,484803 | -149,87604 |
+| Transect 4 Start | POCS1T4S  | -17,485291 | -149,87602 |
+| Transect 4 End   | POCS1T4E  | -17,484888 | -149,87586 |
+| Transect 5 Start | POCS1T5S  | -17,485394 | -149,87586 |
+| Transect 5 End   | POCS1T5EE | -17,484923 | -149,87574 |
+| Transect 6 Start | POCS1T6S  | -17,485378 | -149,87569 |
+| Transect 6 End   | POCS1T6E  | -17,484958 | -149,87549 |
+
+3. Number of corals collected: T1 (**22**), T2 (**7**), T3 (**26**), T4 (**4**), T5 (**5**), T6 (**6**)
+4. Total number of samples: **70**
+
+![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
+
+### Site 2
+1. People:  Arnaud Fabregues - Pierrick Harnay
+2. Transect Performed: T1 (21032023), T2 (23032023), T3 (27032023) T4 (28032023), T5 (31032023), T6 (XXX) 
 
 | Coord            | GPS Name | Longitude | Latitude |
 |------------------|----------|-----------|----------|
@@ -138,12 +161,12 @@ All the point bellow matches to red point on the above map
 | Transect 5 Start |          |           |          |
 | Transect 5 End   |          |           |          |
 | Transect 6 Start |          |           |          |
-| Transect 6 End   |          |           |          |
+| Transect 6 End   |          |           |          |   
+
+3. Number of corals collected: T1 (**112**), T2 (**94**), T3 (**101**), T4 (**89**), T5 (**129**), T6 (**X**)
+4. Total number of samples: **XX**
 
 ![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
-
-3. Number of corals collected: T1 (**36**), T2 (**26**), T3 (**29**), T4 (**20**), T5 (**43**), T6 (**43**), T7 (**7**)
-4. Total number of samples: **204**
 
 ### Site 3
 1. People:  Arnaud Fabregues - Pierrick Harnay
@@ -164,10 +187,35 @@ All the point bellow matches to red point on the above map
 | Transect 6 Start | POCS3T6S | -17,478313 | -149,83332 |
 | Transect 6 End   | POCS3T6E | -17,478037 | -149,83316 |
 
-![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
-
 3. Number of corals collected: T1 (**41**), T2 (**17**), T3 (**26**), T4 (**33**), T5 (**9**), T6 (**8**)
 4. Total number of samples: **134**
+
+![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
+
+### Site 4 
+1. People: Dr Ariana Huffmyer - Danielle Becker - Pierrick Harnay
+2. Transect Performed: T1, T2, T3 (05102022) | T4, T5, T6 (06102022) | T7 (07102022)
+
+
+| Coord            | GPS Name | Longitude | Latitude |
+|------------------|----------|-----------|----------|
+| Transect 1 Start |          |           |          |
+| Transect 1 End   |          |           |          |
+| Transect 2 Start |          |           |          |
+| Transect 2 End   |          |           |          |
+| Transect 3 Start |          |           |          |
+| Transect 3 End   |          |           |          |
+| Transect 4 Start |          |           |          |
+| Transect 4 End   |          |           |          |
+| Transect 5 Start |          |           |          |
+| Transect 5 End   |          |           |          |
+| Transect 6 Start |          |           |          |
+| Transect 6 End   |          |           |          |
+
+3. Number of corals collected: T1 (**36**), T2 (**26**), T3 (**29**), T4 (**20**), T5 (**43**), T6 (**43**), T7 (**7**)
+4. Total number of samples: **204**
+
+![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
 
 ### Site 5
 1. People:  Arnaud Fabregues - Pierrick Harnay
@@ -193,27 +241,219 @@ All the point bellow matches to red point on the above map
 
 ![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
 
-### Site 1
-1. People:  Arnaud Fabregues - Pierrick Harnay
-2. Transect Performed: T1 (20022023), T2 (20022023), T3 (21022023) T4 (21022023), T5 (21022023), T6 (21022023) 
+### Site 6
+1. People:  XXX - XXX
+2. Transect Performed: T1 (XXX), T2 (XXX), T3 (XXX) T4 (XXX), T5 (XXX), T6 (XXX) 
 
-| Coord            | GPS Name  | Longitude  | Latitude   |
-|------------------|-----------|------------|------------|
-| Transect 1 Start | POCS1T1S  | -17,485215 | -149,87652 |
-| Transect 1 End   | POCS1T1E  | -17,484791 | -149,87643 |
-| Transect 2 Start | POCS1T2S  | -17,485172 | -149,87637 |
-| Transect 2 End   | POCS1T2E  | -17,484828 | -149,87619 |
-| Transect 3 Start | POCS1T3S  | -17,485217 | -149,87616 |
-| Transect 3 End   | POCS1T3E  | -17,484803 | -149,87604 |
-| Transect 4 Start | POCS1T4S  | -17,485291 | -149,87602 |
-| Transect 4 End   | POCS1T4E  | -17,484888 | -149,87586 |
-| Transect 5 Start | POCS1T5S  | -17,485394 | -149,87586 |
-| Transect 5 End   | POCS1T5EE | -17,484923 | -149,87574 |
-| Transect 6 Start | POCS1T6S  | -17,485378 | -149,87569 |
-| Transect 6 End   | POCS1T6E  | -17,484958 | -149,87549 |
+| Coord            | GPS Name | Longitude | Latitude |
+|------------------|----------|-----------|----------|
+| Transect 1 Start |          |           |          |
+| Transect 1 End   |          |           |          |
+| Transect 2 Start |          |           |          |
+| Transect 2 End   |          |           |          |
+| Transect 3 Start |          |           |          |
+| Transect 3 End   |          |           |          |
+| Transect 4 Start |          |           |          |
+| Transect 4 End   |          |           |          |
+| Transect 5 Start |          |           |          |
+| Transect 5 End   |          |           |          |
+| Transect 6 Start |          |           |          |
+| Transect 6 End   |          |           |          |
 
-3. Number of corals collected: T1 (**22**), T2 (**7**), T3 (**26**), T4 (**4**), T5 (**5**), T6 (**6**)
-4. Total number of samples: **70**
+3. Number of corals collected: T1 (**X**), T2 (**X**), T3 (**X**), T4 (**X**), T5 (**X**), T6 (**X**)
+4. Total number of samples: **XX**
+
+![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
+
+### Site 7
+1. People:  XXX - XXX
+2. Transect Performed: T1 (XXX), T2 (XXX), T3 (XXX) T4 (XXX), T5 (XXX), T6 (XXX) 
+
+| Coord            | GPS Name | Longitude | Latitude |
+|------------------|----------|-----------|----------|
+| Transect 1 Start |          |           |          |
+| Transect 1 End   |          |           |          |
+| Transect 2 Start |          |           |          |
+| Transect 2 End   |          |           |          |
+| Transect 3 Start |          |           |          |
+| Transect 3 End   |          |           |          |
+| Transect 4 Start |          |           |          |
+| Transect 4 End   |          |           |          |
+| Transect 5 Start |          |           |          |
+| Transect 5 End   |          |           |          |
+| Transect 6 Start |          |           |          |
+| Transect 6 End   |          |           |          |
+
+3. Number of corals collected: T1 (**X**), T2 (**X**), T3 (**X**), T4 (**X**), T5 (**X**), T6 (**X**)
+4. Total number of samples: **XX**
+
+![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
+
+### Site 8
+1. People:  XXX - XXX
+2. Transect Performed: T1 (XXX), T2 (XXX), T3 (XXX) T4 (XXX), T5 (XXX), T6 (XXX) 
+
+| Coord            | GPS Name | Longitude | Latitude |
+|------------------|----------|-----------|----------|
+| Transect 1 Start |          |           |          |
+| Transect 1 End   |          |           |          |
+| Transect 2 Start |          |           |          |
+| Transect 2 End   |          |           |          |
+| Transect 3 Start |          |           |          |
+| Transect 3 End   |          |           |          |
+| Transect 4 Start |          |           |          |
+| Transect 4 End   |          |           |          |
+| Transect 5 Start |          |           |          |
+| Transect 5 End   |          |           |          |
+| Transect 6 Start |          |           |          |
+| Transect 6 End   |          |           |          |
+
+3. Number of corals collected: T1 (**X**), T2 (**X**), T3 (**X**), T4 (**X**), T5 (**X**), T6 (**X**)
+4. Total number of samples: **XX**
+
+![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
+
+### Site 9
+1. People:  XXX - XXX
+2. Transect Performed: T1 (XXX), T2 (XXX), T3 (XXX) T4 (XXX), T5 (XXX), T6 (XXX) 
+
+| Coord            | GPS Name | Longitude | Latitude |
+|------------------|----------|-----------|----------|
+| Transect 1 Start |          |           |          |
+| Transect 1 End   |          |           |          |
+| Transect 2 Start |          |           |          |
+| Transect 2 End   |          |           |          |
+| Transect 3 Start |          |           |          |
+| Transect 3 End   |          |           |          |
+| Transect 4 Start |          |           |          |
+| Transect 4 End   |          |           |          |
+| Transect 5 Start |          |           |          |
+| Transect 5 End   |          |           |          |
+| Transect 6 Start |          |           |          |
+| Transect 6 End   |          |           |          |
+
+3. Number of corals collected: T1 (**X**), T2 (**X**), T3 (**X**), T4 (**X**), T5 (**X**), T6 (**X**)
+4. Total number of samples: **XX**
+
+![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
+
+### Site 10
+1. People:  XXX - XXX
+2. Transect Performed: T1 (XXX), T2 (XXX), T3 (XXX) T4 (XXX), T5 (XXX), T6 (XXX) 
+
+| Coord            | GPS Name | Longitude | Latitude |
+|------------------|----------|-----------|----------|
+| Transect 1 Start |          |           |          |
+| Transect 1 End   |          |           |          |
+| Transect 2 Start |          |           |          |
+| Transect 2 End   |          |           |          |
+| Transect 3 Start |          |           |          |
+| Transect 3 End   |          |           |          |
+| Transect 4 Start |          |           |          |
+| Transect 4 End   |          |           |          |
+| Transect 5 Start |          |           |          |
+| Transect 5 End   |          |           |          |
+| Transect 6 Start |          |           |          |
+| Transect 6 End   |          |           |          |
+
+3. Number of corals collected: T1 (**X**), T2 (**X**), T3 (**X**), T4 (**X**), T5 (**X**), T6 (**X**)
+4. Total number of samples: **XX**
+
+![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
+
+### Site 11
+1. People:  XXX - XXX
+2. Transect Performed: T1 (XXX), T2 (XXX), T3 (XXX) T4 (XXX), T5 (XXX), T6 (XXX) 
+
+| Coord            | GPS Name | Longitude | Latitude |
+|------------------|----------|-----------|----------|
+| Transect 1 Start |          |           |          |
+| Transect 1 End   |          |           |          |
+| Transect 2 Start |          |           |          |
+| Transect 2 End   |          |           |          |
+| Transect 3 Start |          |           |          |
+| Transect 3 End   |          |           |          |
+| Transect 4 Start |          |           |          |
+| Transect 4 End   |          |           |          |
+| Transect 5 Start |          |           |          |
+| Transect 5 End   |          |           |          |
+| Transect 6 Start |          |           |          |
+| Transect 6 End   |          |           |          |
+
+3. Number of corals collected: T1 (**X**), T2 (**X**), T3 (**X**), T4 (**X**), T5 (**X**), T6 (**X**)
+4. Total number of samples: **XX**
+
+![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
+
+### Site 12
+1. People:  XXX - XXX
+2. Transect Performed: T1 (XXX), T2 (XXX), T3 (XXX) T4 (XXX), T5 (XXX), T6 (XXX) 
+
+| Coord            | GPS Name | Longitude | Latitude |
+|------------------|----------|-----------|----------|
+| Transect 1 Start |          |           |          |
+| Transect 1 End   |          |           |          |
+| Transect 2 Start |          |           |          |
+| Transect 2 End   |          |           |          |
+| Transect 3 Start |          |           |          |
+| Transect 3 End   |          |           |          |
+| Transect 4 Start |          |           |          |
+| Transect 4 End   |          |           |          |
+| Transect 5 Start |          |           |          |
+| Transect 5 End   |          |           |          |
+| Transect 6 Start |          |           |          |
+| Transect 6 End   |          |           |          |
+
+3. Number of corals collected: T1 (**X**), T2 (**X**), T3 (**X**), T4 (**X**), T5 (**X**), T6 (**X**)
+4. Total number of samples: **XX**
+
+![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
+
+### Site 13
+1. People:  XXX - XXX
+2. Transect Performed: T1 (XXX), T2 (XXX), T3 (XXX) T4 (XXX), T5 (XXX), T6 (XXX) 
+
+| Coord            | GPS Name | Longitude | Latitude |
+|------------------|----------|-----------|----------|
+| Transect 1 Start |          |           |          |
+| Transect 1 End   |          |           |          |
+| Transect 2 Start |          |           |          |
+| Transect 2 End   |          |           |          |
+| Transect 3 Start |          |           |          |
+| Transect 3 End   |          |           |          |
+| Transect 4 Start |          |           |          |
+| Transect 4 End   |          |           |          |
+| Transect 5 Start |          |           |          |
+| Transect 5 End   |          |           |          |
+| Transect 6 Start |          |           |          |
+| Transect 6 End   |          |           |          |
+
+3. Number of corals collected: T1 (**X**), T2 (**X**), T3 (**X**), T4 (**X**), T5 (**X**), T6 (**X**)
+4. Total number of samples: **XX**
+
+![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
+
+### Site 14
+1. People:  XXX - XXX
+2. Transect Performed: T1 (XXX), T2 (XXX), T3 (XXX) T4 (XXX), T5 (XXX), T6 (XXX) 
+
+| Coord            | GPS Name | Longitude | Latitude |
+|------------------|----------|-----------|----------|
+| Transect 1 Start |          |           |          |
+| Transect 1 End   |          |           |          |
+| Transect 2 Start |          |           |          |
+| Transect 2 End   |          |           |          |
+| Transect 3 Start |          |           |          |
+| Transect 3 End   |          |           |          |
+| Transect 4 Start |          |           |          |
+| Transect 4 End   |          |           |          |
+| Transect 5 Start |          |           |          |
+| Transect 5 End   |          |           |          |
+| Transect 6 Start |          |           |          |
+| Transect 6 End   |          |           |          |
+
+3. Number of corals collected: T1 (**X**), T2 (**X**), T3 (**X**), T4 (**X**), T5 (**X**), T6 (**X**)
+4. Total number of samples: **XX**
 
 ![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
 
@@ -241,9 +481,9 @@ All the point bellow matches to red point on the above map
 
 ![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
 
-### Site 2
-1. People:  Arnaud Fabregues - Pierrick Harnay
-2. Transect Performed: T1 (21032023), T2 (23032023), T3 (27032023) T4 (28032023), T5 (31032023), T6 (XXX) 
+### Site 16
+1. People:  XXX - XXX
+2. Transect Performed: T1 (XXX), T2 (XXX), T3 (XXX) T4 (XXX), T5 (XXX), T6 (XXX) 
 
 | Coord            | GPS Name | Longitude | Latitude |
 |------------------|----------|-----------|----------|
@@ -258,9 +498,57 @@ All the point bellow matches to red point on the above map
 | Transect 5 Start |          |           |          |
 | Transect 5 End   |          |           |          |
 | Transect 6 Start |          |           |          |
-| Transect 6 End   |          |           |          |   
+| Transect 6 End   |          |           |          |
 
-3. Number of corals collected: T1 (**112**), T2 (**94**), T3 (**101**), T4 (**89**), T5 (**129**), T6 (**X**)
+3. Number of corals collected: T1 (**X**), T2 (**X**), T3 (**X**), T4 (**X**), T5 (**X**), T6 (**X**)
+4. Total number of samples: **XX**
+
+![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
+
+### Site 17
+1. People:  XXX - XXX
+2. Transect Performed: T1 (XXX), T2 (XXX), T3 (XXX) T4 (XXX), T5 (XXX), T6 (XXX) 
+
+| Coord            | GPS Name | Longitude | Latitude |
+|------------------|----------|-----------|----------|
+| Transect 1 Start |          |           |          |
+| Transect 1 End   |          |           |          |
+| Transect 2 Start |          |           |          |
+| Transect 2 End   |          |           |          |
+| Transect 3 Start |          |           |          |
+| Transect 3 End   |          |           |          |
+| Transect 4 Start |          |           |          |
+| Transect 4 End   |          |           |          |
+| Transect 5 Start |          |           |          |
+| Transect 5 End   |          |           |          |
+| Transect 6 Start |          |           |          |
+| Transect 6 End   |          |           |          |
+
+3. Number of corals collected: T1 (**X**), T2 (**X**), T3 (**X**), T4 (**X**), T5 (**X**), T6 (**X**)
+4. Total number of samples: **XX**
+
+![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
+
+### Site 18
+1. People:  XXX - XXX
+2. Transect Performed: T1 (XXX), T2 (XXX), T3 (XXX) T4 (XXX), T5 (XXX), T6 (XXX) 
+
+| Coord            | GPS Name | Longitude | Latitude |
+|------------------|----------|-----------|----------|
+| Transect 1 Start |          |           |          |
+| Transect 1 End   |          |           |          |
+| Transect 2 Start |          |           |          |
+| Transect 2 End   |          |           |          |
+| Transect 3 Start |          |           |          |
+| Transect 3 End   |          |           |          |
+| Transect 4 Start |          |           |          |
+| Transect 4 End   |          |           |          |
+| Transect 5 Start |          |           |          |
+| Transect 5 End   |          |           |          |
+| Transect 6 Start |          |           |          |
+| Transect 6 End   |          |           |          |
+
+3. Number of corals collected: T1 (**X**), T2 (**X**), T3 (**X**), T4 (**X**), T5 (**X**), T6 (**X**)
 4. Total number of samples: **XX**
 
 ![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
