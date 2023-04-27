@@ -120,8 +120,7 @@ All the point bellow matches to red point on the above map
 ![photo_recrue](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/photo_recrue.png)
 
 ## Note from the field
-### Site 4 - 05102022 | 06102022 | 07102022
-
+### Site 4 
 1. People: Dr Ariana Huffmyer - Danielle Becker - Pierrick Harnay
 2. Transect Performed: T1, T2, T3 (05102022) | T4, T5, T6 (06102022) | T7 (07102022)
 
@@ -244,7 +243,7 @@ All the point bellow matches to red point on the above map
 
 ### Site 2
 1. People:  Arnaud Fabregues - Pierrick Harnay
-2. Transect Performed: T1 (21032023), T2 (XXX), T3 (XXX) T4 (XXX), T5 (XXX), T6 (XXX) 
+2. Transect Performed: T1 (21032023), T2 (23032023), T3 (27032023) T4 (28032023), T5 (31032023), T6 (XXX) 
 
 | Coord            | GPS Name | Longitude | Latitude |
 |------------------|----------|-----------|----------|
