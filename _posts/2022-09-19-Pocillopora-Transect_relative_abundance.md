@@ -261,7 +261,7 @@ All the point bellow matches to red point on the above map
 | Transect 6 Start |          |           |          |
 | Transect 6 End   |          |           |          |   
 
-3. Number of corals collected: T1 (**112**), T2 (**X**), T3 (**X**), T4 (**X**), T5 (**X**), T6 (**X**)
+3. Number of corals collected: T1 (**112**), T2 (**94**), T3 (**101**), T4 (**89**), T5 (**129**), T6 (**X**)
 4. Total number of samples: **XX**
 
 ![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
