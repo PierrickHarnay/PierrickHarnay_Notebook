@@ -57,7 +57,7 @@ Example:
 
 2. If in doubt about the health of the larvae (swimming stage or other stage), use the microscope to carry out a double check.
 3. Take temperature data and/or, in the case of incubators, temperature + humidity. 
-3. Take a photo of the NoteBook to keep track of data   
+4. Take a photo of the NoteBook to keep track of data   
 
 #### C. Water change / **Every 2 days**
 
