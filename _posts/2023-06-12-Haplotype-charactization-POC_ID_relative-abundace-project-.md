@@ -38,7 +38,7 @@ Before cutting the fragments, perform the following steps:
 3. Dilute bleach to **10%**.   
 3. Cut fragments **(sample, sample backup)** following fragmentation steps with *Gryphon diamond band saw c-140*.  
 4. Fill plastic cup with bleach diluted to **10%** to cover fragments **(sample, sample backup)** (*10ml* should be sufficient)   
-5. Wait **12h** processing time with bleach to ensure that no coral tissue remains on the fragment.   
+5. Wait **24h** processing time with bleach to ensure that no coral tissue remains on the fragment.   
 6. Rinse fragments with fresh water to remove remaining bleach  
 7. Dry the fragments (sample, sample backup) on a paper towel, placing the paper ( **sample number**, **date**, **site**, **transect**) intended for the zipblock bag next to the fragments to track the samples during the drying period. Perform the drying period over a period of **24h**.   
 8. Stick the stickers from **step 2** onto the zipblock bag.  
