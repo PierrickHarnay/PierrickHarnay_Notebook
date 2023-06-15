@@ -31,20 +31,20 @@ In order to maintain S. pistillata population on the reef reproduction and recru
 
 ## Protocol
 #### A. Setup experiment   
-1. After sampling the coral colonies and/or larvae (within the nets), transfer the larvae into a 0.2µm filtered seawater    
-2. Prepare the 6 well plates, placing 1 tile per well.
+1. A**fter sampling the coral colonies and/or larvae (within the nets), transfer the larvae into a 0.2µm filtered seawater**    
+2. Prepare the 6 well plates, placing **1 tile per well**.
 3. Prepare the number of plates needed for the study. In our case, we would need one well plate with 6 CaCO3 tiles and one well plate with 6 PA12 tiles.
 4. Prepare the blank well plates (without tiles). 
 5. Label the plates with the material used for the experiment (I.E plate 1 CaCO3).
-5. Add 7ml of 0.2µm filtered seawater to all plates.
-6. Add 8 larvae per well (Swimming stage only)
-7. Place the plates in an incubator (with light) at the temperature of the seawater in the collection medium (no thermal test is programmed in this experiment)   
+5. Add **7ml of 0.2µm filtered seawater** to all plates.
+6. Add **8 larvae** per well **(Swimming stage only)**
+7. Place the plates in an incubator **(with light, lunar cycle)** at the **temperature of the ocean where the colonies from** (no thermal test is programmed in this experiment)   
 
-#### B. Once the study is up and running / To be done every day 
+#### B. Once the study is up and running / **To be done every day** 
 1. Check the well plates daily (1 time per day if possible within the same time period) and take the desired data such as : (X= number)   
-		- Number of larvae set on tile. Write T= X    
+		**- Number of larvae set on tile. Write T= X    
 		- Number of larvae set on the well plate. Write P=X   
-		- Number of dead larvae. Write (X)    
+		- Number of dead larvae. Write (X)**    
 		
 Example:  
 
@@ -59,14 +59,14 @@ Example:
 3. Take temperature data and/or, in the case of incubators, temperature + humidity. 
 3. Take a photo of the NoteBook to keep track of data   
 
-#### C. Water change / Every 2 days
+#### C. Water change / **Every 2 days**
 
-1. Take daily data (step B)   
-2. Empty seawater, filter to 0.2µm using a pipette, taking care not to capture larvae or break recruiting larvae   
+1. Take daily data **(step B)**   
+2. Remove seawater, put **0.2µm filtered seawater** using a pipette, taking care not to capture larvae or break recruiting larvae   
 3. Put the old water down the drain or in a suitable place   
-4. Fill the well with 7ml of 0.2µm filtered seawater   
+4. Fill the well with **7ml** of **0.2µm filtered seawater**   
 5. Check that all water has been replaced   
 6. Return the wells to their original position   
-7. Wait 2 days and repeat this step (C)   
+7. Wait 2 days and repeat this **(step C)**   
 
 
