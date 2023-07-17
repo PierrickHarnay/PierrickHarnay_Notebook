@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Haplotype characterization POC_ID_relative abundace project
+title: SEM Haplotype characterization POC_ID_relative abundace project
 date: '2023-06-12'
 categories: Protocols
 tags: Pocillopora_DNA_population 1
 ---
-#Haplotype characterization | POC_ID
+# SEM Haplotype characterization | POC_ID
 ## Summary 
 As part of my PhD project on *Settlement and post settlement challenges to successful recruitment for reef building corals* the second chapter focused on the relative abundance of Pocillopora sp. within the Moorea lagoon. A characterization study of the calcareous skeleton by Haplotype (Johnston et al 2021) will be carried out. In addition to genetic identification, this study will enable us to understand the plasticity of each Haplotype as a function of its natural environment. It will also highlight the great interspecific diversity of Pocillopora sp. populations. Analysis of the fragments will be carried out at Haifa University using the SEM 3D Imagine technique (Goodbody-Gringley & Waletich, 2018; Doherty, Matthew et al. 2023)
 
@@ -37,7 +37,7 @@ Before cutting the fragments, perform the following steps:
 2. Number the Sticker (2 times) and waterproof paper (2 times) with **sample number**, **date**, **site**, **transect**. For the second sticker and paper, enter **backup**.  
 3. Dilute bleach to **20%**.   
 3. Cut fragments **(sample, sample backup)** following fragmentation steps with *Gryphon diamond band saw c-140*.
-![Corals_SEM_frag_beforebleach](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/Corals_SEM_frag_beforebleach.JPG) 
+![Corals_SEM_frag_beforebleach](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/Corals_SEM_frag_beforebleach.JPG)    
 4. Fill plastic cup with bleach diluted to **20%** to cover fragments **(sample, sample backup)** (*10ml* should be sufficient)   
 5. Wait **24h** processing time with bleach to ensure that no coral tissue remains on the fragment.   
 6. Rinse fragments with fresh water to remove remaining bleach   
