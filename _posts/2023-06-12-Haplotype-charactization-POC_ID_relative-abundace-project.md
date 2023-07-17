@@ -49,9 +49,9 @@ Before cutting the fragments, perform the following steps:
 11. Place the papers and fragments in the zipblock bag concerned. The resultat need to be as the pictures below       
 ![Zipblock_SEM_Shipping](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/Zipblock_SEM_Shipping.JPG)    
 ![Zipblock_SEM_Backup](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/Zipblock_SEM_Backup.JPG)           
-12. Put the zipblock bag of the fragment destined for Haifa University into the box, respecting the **site/transect** organization, then do the same for the sample backup remaining at GUMP Field Sation.     
+12. Put the zipblock bag of the fragment destined for SEM analysis into the box, respecting the **site/transect** organization, then do the same for the sample backup remaining at GUMP Field Sation.     
 13. Compile excel spreadsheet on GitHub to track samples  
 
 ### Storage 
-Corals leaving for Haifa University will be stored by **Site/Transect** and then stored in a box containing all samples. 
+Corals leaving for SEM analysis will be stored by **Site/Transect** and then stored in a box containing all samples. 
 Corals remaining in Moorea will be stored by **Site/Transect** and then stored in a box containing all samples. 
