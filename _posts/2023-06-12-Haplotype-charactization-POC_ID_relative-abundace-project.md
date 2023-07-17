@@ -36,18 +36,21 @@ Before cutting the fragments, perform the following steps:
 1. Number the plastic cup with **sample number**, **site**, **transect**.  
 2. Number the Sticker (2 times) and waterproof paper (2 times) with **sample number**, **date**, **site**, **transect**. For the second sticker and paper, enter **backup**.  
 3. Dilute bleach to **20%**.   
-3. Cut fragments **(sample, sample backup)** following fragmentation steps with *Gryphon diamond band saw c-140*.  
+3. Cut fragments **(sample, sample backup)** following fragmentation steps with *Gryphon diamond band saw c-140*.
+![Corals_SEM_frag_beforebleach](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/Corals_SEM_frag_beforebleach.JPG) 
 4. Fill plastic cup with bleach diluted to **20%** to cover fragments **(sample, sample backup)** (*10ml* should be sufficient)   
 5. Wait **24h** processing time with bleach to ensure that no coral tissue remains on the fragment.   
-6. Rinse fragments with fresh water to remove remaining bleach 
-7. Place the fragment on an aluminium foil on a tray dedicated to **Dryoven**.
-8. Put the fragments (sample, sample backup) on the plate, writting on the aluminium feuille **sample number**, **site**, **transect**  and place the fragments under the notes to track the samples during the drying period. Perform the drying period over a period of **24h**.   
-8. Stick the stickers from **step 2** onto the zipblock bag. 
-9. Wrap the sample with a square of paper towel previously cut from the sample to be shipped. Do not wrap a paper towel around the second sample. 
-10. Place the papers and fragments in the zipblock bag concerned. The resultat need to be as the pictures below.  
-![Zipblock_SEM_link](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/Zipblock_SEM_link.jpg)         
-11. Put the zipblock bag of the fragment destined for Haifa University into the box, respecting the **site/transect** organization, then do the same for the sample backup remaining at GUMP Field Sation.     
-12. Compile excel spreadsheet on GitHub to track samples  
+6. Rinse fragments with fresh water to remove remaining bleach   
+7. Place the fragment on an aluminium foil on a tray dedicated to **Dryoven**    
+8. Put the fragments (sample, sample backup) on the plate, writting on the aluminium feuille **sample number**, **site**, **transect**  and place the fragments under the notes to track the samples during the drying period. Perform the drying period over a period of **24h**     
+![SEM_plate_bleach_afterdryoven](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/SEM_plate_bleach_afterdryoven.JPG)   
+9. Stick the stickers from **step 2** onto the zipblock bag   
+10. Wrap the sample with a square of paper towel previously cut from the sample to be shipped. Do not wrap a paper towel around the second sample     
+11. Place the papers and fragments in the zipblock bag concerned. The resultat need to be as the pictures below       
+![Zipblock_SEM_Shipping](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/Zipblock_SEM_Shipping.JPG)    
+![Zipblock_SEM_Backup](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/Zipblock_SEM_Backup.JPG)           
+12. Put the zipblock bag of the fragment destined for Haifa University into the box, respecting the **site/transect** organization, then do the same for the sample backup remaining at GUMP Field Sation.     
+13. Compile excel spreadsheet on GitHub to track samples  
 
 ### Storage 
 Corals leaving for Haifa University will be stored by **Site/Transect** and then stored in a box containing all samples. 
