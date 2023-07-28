@@ -366,7 +366,7 @@ All the point bellow matches to red point on the above map
 ![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
 
 ### Site 11
-1. People:  Pierrick - Hollie
+1. People:  Pierrick Harnay - Hollie Putnam
 2. Transect Performed: T1 (180623), T2 (190623), T3 (XXX) T4 (XXX), T5 (XXX), T6 (XXX) 
 
 | Coord            | GPS Name | Longitude | Latitude |
