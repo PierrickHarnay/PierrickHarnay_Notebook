@@ -28,4 +28,24 @@
 >- **Box Site 15 T3** -> Rename as "**Site _ 15 _ 5 _ Backup**"   
 >- **Box Site 15 T3** -> Rename as "**Site _ 15 _ 4 _ Backup**" 
   
+#### *20240410*
+#### *POC Flow*
+>- Creation file Master Metadata for "**Flow Jordan Experiment**"   
+
+#### *POC ID LAGOON RELATIVE ABUNDANCE*
+>- Creation file Master Metadata for "**POC ID RA list**"   
+
+#### *20240411*   
+#### *POC ID LAGOON RELATIVE ABUNDANCE* 
+>- Finish file Master Metadata for "**POC ID RA list**"   
+>- Change/fix csv format problem of the files "**POC ID RA list**", "**POC ID RA list size**", "**POC ID RA lifestage**", "**POC RA Size**"m "**SEM POC ID RA**"   
+> code R: *x <- read.csv("/Users/pierrickharnay/Downloads/SEM_POC_ID_RA.csv", sep=";")
+write.csv(x, "/Users/pierrickharnay/Downloads/SEM_POC_ID_RA.csv")* 
+
+#### *20240412*   
+#### Coral Care   
+>- Creation of repository "**Coral care**"
+>- Creation of Data File "**Coral care sample list**"   
+  
+
 
