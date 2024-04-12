@@ -3,7 +3,7 @@
 ---
 
 ### Haifa       
-####*20240409*
+#### *20240409*
 #### *POC Flow*
 >- Creation of POC Flow experiment project file/folder in drive call "**Flow Jordan Experiment**".  
 >- Select pictures and rename each of them by their identification number. All pictures are available on OSF file called "**Flow Jordan Experiment**". Structure of the name identification (**FLOW _ PT _ 17**). 
@@ -11,7 +11,6 @@
 >####Sample ID problem and need to be fix. 
 >	- Sample called ***FLOW _ PG _16*** need to be rename as ***FLOW _ PT _ 16*** on the whirlpak and paper inside the whirlpak.  
 
->--
 
 #### *POC ID LAGOON RELATIVE ABUNDANCE*
 > #### Box who need to be rename after travel between Mo'orea - Rhode Island
@@ -29,4 +28,4 @@
 >- **Box Site 15 T3** -> Rename as "**Site _ 15 _ 5 _ Backup**"   
 >- **Box Site 15 T3** -> Rename as "**Site _ 15 _ 4 _ Backup**" 
   
-> --
+
