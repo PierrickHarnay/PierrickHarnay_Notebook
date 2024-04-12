@@ -43,9 +43,10 @@
 write.csv(x, "/Users/pierrickharnay/Downloads/SEM_POC_ID_RA.csv")* 
 
 #### *20240412*   
-#### Coral Care   
+#### *Coral Care*   
 >- Creation of repository "**Coral care**"
+>- Rename all pictures from the field   
 >- Creation of Data File "**Coral care sample list**"   
-  
+>- Creation and uploading CORAL-CARE pictures on OSF (link: ). Repository call "**CORAL_CARE**"   
 
 
