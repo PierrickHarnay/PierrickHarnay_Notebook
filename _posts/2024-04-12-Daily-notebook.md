@@ -8,7 +8,7 @@
 >- Creation of POC Flow experiment project file/folder in drive call "**Flow Jordan Experiment**".  
 >- Select pictures and rename each of them by their identification number. All pictures are available on OSF file called "**Flow Jordan Experiment**". Structure of the name identification (**FLOW _ PT _ 17**). 
  
->####Sample ID problem and need to be fix. 
+>#### Sample ID problem and need to be fix. 
 >	- Sample called ***FLOW _ PG _16*** need to be rename as ***FLOW _ PT _ 16*** on the whirlpak and paper inside the whirlpak.  
 
 
