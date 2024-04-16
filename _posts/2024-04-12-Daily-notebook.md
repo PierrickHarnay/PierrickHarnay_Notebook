@@ -76,6 +76,6 @@ write.csv(x, "/Users/pierrickharnay/Downloads/SEM_POC_ID_RA.csv")*
 
 #### *POC ID LAGOON RELATIVE ABUNDANCE*    
 ##### *SEM Part*   
->- ~~Create notebook post about the date and the plate run for each day of processing. On each plate we can see each individual sample cut, bleach and place in order on the plate before they go in the dryoven process. This notebook post will be online just in case we have any problem with the data. The pictures of the plate will be also available only on OSF sofware. Notebook post available here:~~     
->- Rename SEM plate pictures before create post (73 plate total for SEM processing)    
+>- Create notebook post about the date and the plate run for each day of processing. On each plate we can see each individual sample cut, bleach and place in order on the plate before they go in the dryoven process. This notebook post will be online just in case we have any problem with the data. The pictures of the plate will be also available only on OSF sofware. Notebook post available [here] (https://pierrickharnay.github.io/PierrickHarnay_Notebook/POC-ID-SEM-lab-preparation/)    
+>- Rename SEM plate pictures before create post (73 plates total for SEM processing)    
 >  
