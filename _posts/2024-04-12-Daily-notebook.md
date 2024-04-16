@@ -47,6 +47,30 @@ write.csv(x, "/Users/pierrickharnay/Downloads/SEM_POC_ID_RA.csv")*
 >- Creation of repository "**Coral care**"
 >- Rename all pictures from the field   
 >- Creation of Data File "**Coral care sample list**"   
->- Creation and uploading CORAL-CARE pictures on OSF (link: ). Repository call "**CORAL_CARE**"   
+>- Creation CORAL-CARE pictures on OSF (link: ). Repository call "**CORAL_CARE**"   
 
+#### *20240413* 
+#### *POC ID LAGOON RELATIVE ABUNDANCE*   
+>- Creation draft design experimental    
+![POCID_protocol_draft](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/POCID_protocol_draft.PNG)   
+
+#### *TPC2024*   
+>- Rename TPC2024 Pictures
+   
+----------------------------
+#### *Pocillopora spawning paper*
+>- Litterature work 
+
+#### *20240415* 
+#### *Pocillopora spawning paper*   
+>- Litterature work    
+>- Writting session   
+
+#### *20240416* 
+#### *Pocillopora spawning paper* 
+>- Litterature work    
+>- Writting session 
+
+**Note for papers and importante points**   
+![POC_spawning_note](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/POC_spawning_note.PNG)  
 
