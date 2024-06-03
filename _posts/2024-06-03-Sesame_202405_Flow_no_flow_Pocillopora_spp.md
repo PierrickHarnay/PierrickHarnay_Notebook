@@ -13,9 +13,13 @@ In the island of Mo'orea located in French Polynesia, *Pocillopora spp.* are pre
 Our goal it's to identified the difference and the plasticity the coral make between a site with a hight flow regime compare to a low flow regime condition. For doing that we run the sample at the BeamLine of SESAME in Jordan.   
 
 ### History of the samples    
-#### Replicate    
+#### Colonies from the field   
+![colonie_figure_sesesame.png](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/colonie_figure_sesesame.png)    
 
-ADD Picture of teh colonies colected 
+#### µCT images   
+   
+
+
 
 ### Hypothesis   
-Depending of the environmental condition, *Pocillopora spp.* will don't have the same skeleton structure interspecific and intraspecific.   
+Depending of the environmental condition, *Pocillopora spp.* will don't have the same skeleton structure interspecific and intraspecific.    
