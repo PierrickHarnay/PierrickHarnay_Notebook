@@ -22,4 +22,6 @@ Depending of the environmental condition, *Pocillopora spp.* will don't have the
 #### µCT images   
 ![CT_image.png](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/CT_image.png)   
 
+### Part of the sample run at different resolution   
+
   
