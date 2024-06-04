@@ -23,5 +23,17 @@ Depending of the environmental condition, *Pocillopora spp.* will don't have the
 ![CT_image.png](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/CT_image.png)   
 
 ### Part of the sample run at different resolution   
+Each sample was prepare in the field in Mo'orea following [SEM preparation](https://pierrickharnay.github.io/PierrickHarnay_Notebook/Haplotype-charactization-POC_ID_relative-abundace-project/). After being scaned a first time in Germany with µCT, sample was cut one more time to have the correct size for SESAME.   
+##### Final cuting: 
+![Sample_prep.png](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/Sample_prep.png)   
 
+During expereriment we wanted to focus on the top part of the coral to observe and analysis the growth part. For this **A**) zone wanted to scan at SESAME, **B**) second cut did in germany to have the spot wanted.   
+
+#### Windows used for scanning   
+![Resolution_windows.png](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/Resolution_windows.png)   
+
+*We used to resolution of scan:* Low resolution *(5X - ~36 keV)* and High resolution *(20X - ~20 keV)*. For the sample at **Low resoltuion** we scan 3 windows separe each other per 3mm to never overlap between window. Depending of the shape of the sample, we needed to went bellow 3mm to make sur to have a good scan and the entire piece wish. At **High resolution** only the first window was scan.   
+
+   
+   
   
