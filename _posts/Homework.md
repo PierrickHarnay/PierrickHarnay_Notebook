@@ -12,7 +12,7 @@ We ask you to write a protocol (subject of your choice) following the requested 
 - Insert photos with captions  
 For exemple:   
    
-![IMG_7374.jpeg](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/IMG_7374.jpeg)   
+![poc_faucon_exemple_pic.png](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/poc_faucon_exemple_pic.png)   
 
 - Insert tables (screenshots not allowed)     
 For exemple:   
