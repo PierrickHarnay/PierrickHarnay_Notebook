@@ -121,8 +121,8 @@ All the point bellow matches to red point on the above map
 
 ## Note from the field
 
-### Total corals at the 27072023 (DMY)    
-### **1883**
+### Total corals 08062024(DDMMYYYY)    
+### **3475**
 
 ### Site 1
 1. People:  Arnaud Fabregues - Pierrick Harnay
@@ -146,7 +146,9 @@ All the point bellow matches to red point on the above map
 3. Number of corals collected: T1 (**22**), T2 (**7**), T3 (**26**), T4 (**4**), T5 (**5**), T6 (**6**)
 4. Total number of samples: **70**
 
-![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
+First data exploration. Adlut VS recruit (whitout size analysis).  
+
+![S1_RA_240607.jpg](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/S1_RA_240607.jpg)
 
 ### Site 2
 1. People:  Arnaud Fabregues - Pierrick Harnay
@@ -168,9 +170,11 @@ All the point bellow matches to red point on the above map
 | Transect 6 End   |          |           |          |   
 
 3. Number of corals collected: T1 (**112**), T2 (**94**), T3 (**101**), T4 (**89**), T5 (**129**), T6 (**34**)
-4. Total number of samples: **559**
+4. Total number of samples: **559**   
 
-![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
+First data exploration. Adlut VS recruit (whitout size analysis).
+
+![S2_RA_240607.jpg](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/S2_RA_240607.jpg)
 
 ### Site 3
 1. People:  Arnaud Fabregues - Pierrick Harnay
@@ -194,7 +198,9 @@ All the point bellow matches to red point on the above map
 3. Number of corals collected: T1 (**41**), T2 (**17**), T3 (**26**), T4 (**33**), T5 (**9**), T6 (**8**)
 4. Total number of samples: **134**
 
-![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
+First data exploration. Adlut VS recruit (whitout size analysis).   
+
+![S3_RA_240607.jpg](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/S3_RA_240607.jpg)
 
 ### Site 4 
 1. People: Dr Ariana Huffmyer - Danielle Becker - Pierrick Harnay
@@ -219,7 +225,9 @@ All the point bellow matches to red point on the above map
 3. Number of corals collected: T1 (**36**), T2 (**26**), T3 (**29**), T4 (**20**), T5 (**43**), T6 (**43**), T7 (**7**)
 4. Total number of samples: **204**
 
-![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
+First data exploration. Adlut VS recruit (whitout size analysis).   
+
+![S4_RA_240607.jpg](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/S4_RA_240607.jpg)
 
 ### Site 5
 1. People:  Arnaud Fabregues - Pierrick Harnay
@@ -243,7 +251,9 @@ All the point bellow matches to red point on the above map
 3. Number of corals collected: T1 (**126**), T2 (**152**), T3 (**102**), T4 (**63**), T5 (**31**), T6 (**88**)
 4. Total number of samples: **562**
 
-![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
+First data exploration. Adlut VS recruit (whitout size analysis).   
+
+![S5_RA_240607.jpg](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/S5_RA_240607.jpg)
 
 ### Site 6
 1. People:  Pierrick Harnay -  Dr Hollie Putnam
@@ -259,57 +269,11 @@ All the point bellow matches to red point on the above map
 | Transect 3 End   |          |           |          |
 
 3. Number of corals collected: T1 (**88**), T2 (**74**), T3 (**77**)
-4. Total number of samples: **239**
+4. Total number of samples: **239**   
 
-![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
+First data exploration. Adlut VS recruit (whitout size analysis).   
 
-### Site 7
-1. People:  XXX - XXX
-2. Transect Performed: T1 (XXX), T2 (XXX), T3 (XXX) T4 (XXX), T5 (XXX), T6 (XXX) 
-
-| Coord            | GPS Name | Longitude | Latitude |
-|------------------|----------|-----------|----------|
-| Transect 1 Start |          |           |          |
-| Transect 1 End   |          |           |          |
-| Transect 2 Start |          |           |          |
-| Transect 2 End   |          |           |          |
-| Transect 3 Start |          |           |          |
-| Transect 3 End   |          |           |          |
-| Transect 4 Start |          |           |          |
-| Transect 4 End   |          |           |          |
-| Transect 5 Start |          |           |          |
-| Transect 5 End   |          |           |          |
-| Transect 6 Start |          |           |          |
-| Transect 6 End   |          |           |          |
-
-3. Number of corals collected: T1 (**X**), T2 (**X**), T3 (**X**), T4 (**X**), T5 (**X**), T6 (**X**)
-4. Total number of samples: **XX**
-
-![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
-
-### Site 8
-1. People:  XXX - XXX
-2. Transect Performed: T1 (XXX), T2 (XXX), T3 (XXX) T4 (XXX), T5 (XXX), T6 (XXX) 
-
-| Coord            | GPS Name | Longitude | Latitude |
-|------------------|----------|-----------|----------|
-| Transect 1 Start |          |           |          |
-| Transect 1 End   |          |           |          |
-| Transect 2 Start |          |           |          |
-| Transect 2 End   |          |           |          |
-| Transect 3 Start |          |           |          |
-| Transect 3 End   |          |           |          |
-| Transect 4 Start |          |           |          |
-| Transect 4 End   |          |           |          |
-| Transect 5 Start |          |           |          |
-| Transect 5 End   |          |           |          |
-| Transect 6 Start |          |           |          |
-| Transect 6 End   |          |           |          |
-
-3. Number of corals collected: T1 (**X**), T2 (**X**), T3 (**X**), T4 (**X**), T5 (**X**), T6 (**X**)
-4. Total number of samples: **XX**
-
-![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
+![S6_RA_240607.jpg](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/S6_RA_240607.jpg)
 
 ### Site 9
 1. People:  Pierrick Harnay - Dr Hollie Putnam
@@ -327,31 +291,9 @@ All the point bellow matches to red point on the above map
 3. Number of corals collected: T1 (**85**), T2 (**86**), T3 (**84**)
 4. Total number of samples: **255**
 
-![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
+First data exploration. Adlut VS recruit (whitout size analysis).   
 
-### Site 10
-1. People:  XXX - XXX
-2. Transect Performed: T1 (XXX), T2 (XXX), T3 (XXX) T4 (XXX), T5 (XXX), T6 (XXX) 
-
-| Coord            | GPS Name | Longitude | Latitude |
-|------------------|----------|-----------|----------|
-| Transect 1 Start |          |           |          |
-| Transect 1 End   |          |           |          |
-| Transect 2 Start |          |           |          |
-| Transect 2 End   |          |           |          |
-| Transect 3 Start |          |           |          |
-| Transect 3 End   |          |           |          |
-| Transect 4 Start |          |           |          |
-| Transect 4 End   |          |           |          |
-| Transect 5 Start |          |           |          |
-| Transect 5 End   |          |           |          |
-| Transect 6 Start |          |           |          |
-| Transect 6 End   |          |           |          |
-
-3. Number of corals collected: T1 (**X**), T2 (**X**), T3 (**X**), T4 (**X**), T5 (**X**), T6 (**X**)
-4. Total number of samples: **XX**
-
-![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
+![S9_RA_240607.jpg](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/S9_RA_240607.jpg)
 
 ### Site 11
 1. People:  Pierrick Harnay - Dr Hollie Putnam
@@ -375,11 +317,13 @@ All the point bellow matches to red point on the above map
 3. Number of corals collected: T1 (**94**), T2 (**56**), T3 (**X**), T4 (**52**), T5 (**39**), T6 (**54**)
 4. Total number of samples: **295**
 
-![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
+First data exploration. Adlut VS recruit (whitout size analysis).   
+
+![S11_RA_240607.jpg](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/S11_RA_240607.jpg)
 
 ### Site 12
-1. People:  XXX - XXX
-2. Transect Performed: T1 (XXX), T2 (XXX), T3 (XXX) T4 (XXX), T5 (XXX), T6 (XXX) 
+1. People:  Pierrick Harnay - Moana Le Rohellec
+2. Transect Performed: T1 (03032024), T2 (19032024), T3 (20032024)
 
 | Coord            | GPS Name | Longitude | Latitude |
 |------------------|----------|-----------|----------|
@@ -389,45 +333,17 @@ All the point bellow matches to red point on the above map
 | Transect 2 End   |          |           |          |
 | Transect 3 Start |          |           |          |
 | Transect 3 End   |          |           |          |
-| Transect 4 Start |          |           |          |
-| Transect 4 End   |          |           |          |
-| Transect 5 Start |          |           |          |
-| Transect 5 End   |          |           |          |
-| Transect 6 Start |          |           |          |
-| Transect 6 End   |          |           |          |
 
-3. Number of corals collected: T1 (**X**), T2 (**X**), T3 (**X**), T4 (**X**), T5 (**X**), T6 (**X**)
-4. Total number of samples: **XX**
+3. Number of corals collected: T1 (**98**), T2 (**90**), T3 (**68**)
+4. Total number of samples: **257**
 
-![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
+First data exploration. Adlut VS recruit (whitout size analysis).   
 
-### Site 13
-1. People:  XXX - XXX
-2. Transect Performed: T1 (XXX), T2 (XXX), T3 (XXX) T4 (XXX), T5 (XXX), T6 (XXX) 
-
-| Coord            | GPS Name | Longitude | Latitude |
-|------------------|----------|-----------|----------|
-| Transect 1 Start |          |           |          |
-| Transect 1 End   |          |           |          |
-| Transect 2 Start |          |           |          |
-| Transect 2 End   |          |           |          |
-| Transect 3 Start |          |           |          |
-| Transect 3 End   |          |           |          |
-| Transect 4 Start |          |           |          |
-| Transect 4 End   |          |           |          |
-| Transect 5 Start |          |           |          |
-| Transect 5 End   |          |           |          |
-| Transect 6 Start |          |           |          |
-| Transect 6 End   |          |           |          |
-
-3. Number of corals collected: T1 (**X**), T2 (**X**), T3 (**X**), T4 (**X**), T5 (**X**), T6 (**X**)
-4. Total number of samples: **XX**
-
-![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
+![S12_RA_240607.jpg](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/S12_RA_240607.jpg)
 
 ### Site 14
-1. People:  XXX - XXX
-2. Transect Performed: T1 (XXX), T2 (XXX), T3 (XXX) T4 (XXX), T5 (XXX), T6 (XXX) 
+1. People:  Pierrick Harnay - Moana Le Rohellec
+2. Transect Performed: T1 (21032024), T2 (22032024), T3 (25032024)  
 
 | Coord            | GPS Name | Longitude | Latitude |
 |------------------|----------|-----------|----------|
@@ -437,17 +353,13 @@ All the point bellow matches to red point on the above map
 | Transect 2 End   |          |           |          |
 | Transect 3 Start |          |           |          |
 | Transect 3 End   |          |           |          |
-| Transect 4 Start |          |           |          |
-| Transect 4 End   |          |           |          |
-| Transect 5 Start |          |           |          |
-| Transect 5 End   |          |           |          |
-| Transect 6 Start |          |           |          |
-| Transect 6 End   |          |           |          |
 
-3. Number of corals collected: T1 (**X**), T2 (**X**), T3 (**X**), T4 (**X**), T5 (**X**), T6 (**X**)
-4. Total number of samples: **XX**
+3. Number of corals collected: T1 (**116**), T2 (**124**), T3 (**116**)
+4. Total number of samples: **356**
 
-![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
+First data exploration. Adlut VS recruit (whitout size analysis).   
+
+![S14_RA_240607.jpg](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/S14_RA_240607.jpg)
 
 ### Site 15
 1. People:  Pierrick Harnay - Arnaud Fabregues - Jessica Tran
@@ -467,55 +379,9 @@ All the point bellow matches to red point on the above map
 3. Number of corals collected: T1 (**83**), T2 (**121**), T3 (**134**), T4 (**62**)   
 4. Total number of samples: **400**
 
-![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
+First data exploration. Adlut VS recruit (whitout size analysis).   
 
-### Site 16
-1. People:  XXX - XXX
-2. Transect Performed: T1 (XXX), T2 (XXX), T3 (XXX) T4 (XXX), T5 (XXX), T6 (XXX) 
-
-| Coord            | GPS Name | Longitude | Latitude |
-|------------------|----------|-----------|----------|
-| Transect 1 Start |          |           |          |
-| Transect 1 End   |          |           |          |
-| Transect 2 Start |          |           |          |
-| Transect 2 End   |          |           |          |
-| Transect 3 Start |          |           |          |
-| Transect 3 End   |          |           |          |
-| Transect 4 Start |          |           |          |
-| Transect 4 End   |          |           |          |
-| Transect 5 Start |          |           |          |
-| Transect 5 End   |          |           |          |
-| Transect 6 Start |          |           |          |
-| Transect 6 End   |          |           |          |
-
-3. Number of corals collected: T1 (**X**), T2 (**X**), T3 (**X**), T4 (**X**), T5 (**X**), T6 (**X**)
-4. Total number of samples: **XX**
-
-![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
-
-### Site 17
-1. People:  XXX - XXX
-2. Transect Performed: T1 (XXX), T2 (XXX), T3 (XXX) T4 (XXX), T5 (XXX), T6 (XXX) 
-
-| Coord            | GPS Name | Longitude | Latitude |
-|------------------|----------|-----------|----------|
-| Transect 1 Start |          |           |          |
-| Transect 1 End   |          |           |          |
-| Transect 2 Start |          |           |          |
-| Transect 2 End   |          |           |          |
-| Transect 3 Start |          |           |          |
-| Transect 3 End   |          |           |          |
-| Transect 4 Start |          |           |          |
-| Transect 4 End   |          |           |          |
-| Transect 5 Start |          |           |          |
-| Transect 5 End   |          |           |          |
-| Transect 6 Start |          |           |          |
-| Transect 6 End   |          |           |          |
-
-3. Number of corals collected: T1 (**X**), T2 (**X**), T3 (**X**), T4 (**X**), T5 (**X**), T6 (**X**)
-4. Total number of samples: **XX**
-
-![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
+![S15_RA_240607.jpg](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/S15_RA_240607.jpg)
 
 ### Site 18
 1. People:  Pierrick Harnay - Dr Hollie Putnam
@@ -533,4 +399,6 @@ All the point bellow matches to red point on the above map
 3. Number of corals collected: T1 (**50**), T2 (**33**), T3 (**51**)   
 4. Total number of samples: **134**
 
-![XXXX](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/XXXX.png)
+First data exploration. Adlut VS recruit (whitout size analysis).   
+
+![S18_RA_240607.jpg](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/S18_RA_240607.jpg)

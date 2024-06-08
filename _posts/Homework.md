@@ -1,6 +1,6 @@
 ### 20240604   
 ## Homework
-### *Create your Notebook post and plubish it:*
+### *Create your Notebook post and publish it:*
 
 Following on from what we've seen together on the introduction and application of GitHub and Markdown to science.
 We ask you to write a protocol (subject of your choice) following the requested framework. The protocol must be written in a text editor of your choice between **Markdown**, **Atom** or **Visual Studio**.
