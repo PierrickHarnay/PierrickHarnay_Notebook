@@ -29,7 +29,7 @@ In order to prepare a new approach to the question with new life stages, we used
 ### **Samples preparation adults**    
 All samples were prepared in advance following the protocol [SEM preparation](https://pierrickharnay.github.io/PierrickHarnay_Notebook/Haplotype-charactization-POC_ID_relative-abundace-project/). Before each scan, the coral fragments were cut with a pair of wire cutters to take only the top of the fragments (see picture bellow). 
 
-![samples_disposition.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/samples_disposition.JPG).   
+![samples_disposition](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/samples_disposition.JPG).   
 
 ### **Samples preparation recruits**    
 All samples were prepared in advance following the protocol [SEM preparation](https://pierrickharnay.github.io/PierrickHarnay_Notebook/Haplotype-charactization-POC_ID_relative-abundace-project/). All recruits were cut or positioned to be able to see the entire fragment. Each fragment was scanned twice, starting from the top tips and going down ***3 mm*** to overlap the scans for easier reconstruction. 
