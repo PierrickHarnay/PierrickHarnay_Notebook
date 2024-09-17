@@ -13,39 +13,45 @@ In this context, this study aims to define a period of pre-competency and compet
 This step of understanding will help us fill in missing parts of the reproductive cycle and also provide more knowledge about recruitment in cryptic species dominant on many coral reefs worldwide, such as on the island of Mo'orea.
 
 ### Protocol    
-Dans le cadre de cette experiment nous nous sommes base sur le travail realise par d'autres equipe sur des especes differentes. Notre protocol sera donc en corelation avec Randal et al. 2024.   
+In the context of this experiment, we based our work on the research conducted by other teams on different species. Our protocol will therefore be correlated with **Randal et al. 2024**.   
 
 #### Global plan   
 
 ![process_expe_competency.jpg](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/process_expe_competency.jpg).  
 
-**Fig 1:** 1) Collection des larves directement dans le lagon de Mo'orea a l'aide d'une bouteille vide (creation de cyphon next to the colonie 2) Maintiens des larves de coraux et grossisement de celle-ci en aquarium maintenu en circuit ouvert 3) Comptage des larves au microscope a l'aide d'une lampe fluorescente bleu afin de trouver les larves 4) mise en place des larves dans les 6 well plates qui leurs sont destines (n=6 conditions, n=10 larve per well). 
+**Fig 1:** 1) Collection of larvae directly from the lagoon of Mo'orea using an empty bottle (creation of a siphon next to Colony 2) Maintenance and growth of coral larvae in an aquarium kept in an open circuit.
+4) Counting of larvae under a microscope with the help of a blue fluorescent lamp to locate the larvae.
+5) Placement of the larvae into the 6-well plates designated for them (n=6 conditions, n=10 larvae per well).
  
 #### Coral spawning monitoring    
-La collected et detection du spawning de chaque espece sera base sur l'etude de Harnay et al. 2024. Les collonies ne seront pas collecter et resterons dans le lagon. Une bouteille en plastique (rincer a l'eau de mer 3 fois) sera utiliser pour collecter les larves de coraux (**step 1 on the cartoon**). 
+The collection and detection of spawning for each species will be based on the study by Harnay et al. 2024. The colonies will not be collected and will remain in the lagoon. A plastic bottle (rinsed with seawater 3 times) will be used to collect the coral larvae. (**step 1 on the cartoon**). 
 
 #### Coral larvae maintenance    
-Une fois rentree a la GUMP station, les bouteilles contenant les larves provenant de different genotype sont mixer et maintenant une des aquarium alimenter en circuit ouvert. Le chnagement d'eau se fera tous les 2 jours. Afin de ne pas perdre les larves et de limiter le stress de celle-ci, les larves seront collecter a l'aide de filtre 120 micron et stocker dans un autre aquarium.  
+Once back at the GUMP station, the bottles containing larvae from different genotypes are mixed and transferred to an aquarium supplied with an open circuit. Water changes will occur every 2 days. To avoid losing the larvae and to minimize their stress, the larvae will be collected using a 120-micron filter and stored in a separate aquarium.
 
 #### Crustose Coralline Algae    
-Pour cette experimentation, trois especes de CCA different seront utilise:    
+For this experiment, three different species of CCA (crustose coralline algae) will be used:   
 - *Porolithon cf. onkodes*   
 - *Neogoniolithon cf. megalocystum*   
 - *Lithophyllum sp.*   
 
-Les especes liste au dessus ont ete selectionner en prenant en compte le papier de **Vizon et al. 2024**. Les trois especes sont presentes dans le lagon (back reef) de Mo'orea et seront colecter un jour avant la date de pontes des coraux (en fonction du clendrier lunaire). Ils seront stocker en aquarium et disposer sur des supports afin de limiter la contamination par d'autre algues ou organismes non lie a ces organismes. Pour le bien de l'experience de nouvelle CCA seront collecter (sur les meme sites) toutes les semaines afin d'avoir la meilleur qualite possible et de garder le microbiome.. De plus afin de ne pas compromettre l'identification d'espece, l'integralite des echantillions seront sequence et analyse. 
+The species listed above were selected based on the paper by **Vizon et al. 2024**. The three species are present in the lagoon (back reef) of Mo'orea and will be collected one day before the coral spawning date (according to the lunar calendar). They will be stored in an aquarium and placed on supports to minimize contamination by other algae or organisms not related to these species. For the benefit of the experiment, new CCA will be collected (from the same sites) every week to ensure the highest possible quality and to maintain the microbiome. Additionally, to avoid compromising species identification, all samples will be sequenced and analyzed.
 
 #### Coral ruble 
-Afin d'augemnter les supports de recrutement, nous allons egalemnent utiliser des rubbles trouver sur le site d'echantillionage (CCA, larvaes, rubble). Afin de ne pas creer de biais dans l'experience, les rubbles proviendrons de la meme colonie corallienne morte et depourvue de CCA. Les squellettes de coraux mort collecter proviendrons de vieille colonie de *Pocillopora spp.*. Ils seront egalement collecter 1 jours avant les dates de pontes et stocker en aquarium et disposer sur des supports afin de limiter la contamination par d'autre algues ou organismes. Pour le bien de l'experience une nouvelle colonie sera collecter (sur les meme sites) toutes les semaines afin d'avoir la meilleur qualite possible et de garder le microbiome. 
+In order to increase recruitment supports, we will also use rubble found at the sampling site (CCA, larvae, rubble). To avoid introducing bias into the experiment, the rubble will come from the same dead coral colony, devoid of CCA. The dead coral skeletons collected will come from old colonies of *Pocillopora spp*. They will also be collected 1 day before the spawning dates and stored in an aquarium and placed on supports to minimize contamination by other algae or organisms. For the benefit of the experiment, a new colony will be collected (from the same sites) every week to ensure the highest possible quality and to maintain the microbiome.   
 
 #### Design experimental 
    
 ![Design_expe](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/Design_expe.JPG) 
 
-Tous les matins apres spawning monitoring, l'integralite des plaques seront examiner sous microscope equipe de l'umiere fluorescente bleu afin de detecter ou non des larves commencant la phase de competency. Celle-ci seront enregister et entre dans le tableau excel disponible !!here!!. Apres examination, les larves et fragment de CCA seront disposer dans des tubes 1ml rempli par du DNA-RNA Shield et stokcer a -40˚C puis sera envoyer pour analyse ARN et/ou microbiome. 
-Apres examination et storage of sample, les plates seront disposer dans un sceau de javel (a 20 pourcent de contration) pour desinfection durant 12h puis rincer avec du DI water et secher pendant 12h. 
-Apres ces etapes, de nouvelle 6 well plates seront utiliser et 10 larves seront disposer per well. Pour chaque well un support  (CCA, Rubble and plug) sera couper au prealable avec une scie Gryphon pour garantir une taille similaire entre replicat. La taille sera de 1cm2. Chaque support sera pris en photo en disposant une regle afin de par la suite calculer la surface area. L'emplacement des support sera determiner aleatoirement. 
-Les 6 well plates seront par la suite disposer dans des incubateurs maintenu a 26˚C et verifier par des sondes temperature. 
-Une lampe LED AquaIlumination sera disposer dans chaque incubateur et regler suivant l'intensite lumineuse presente en milieu naturel. 
-Les donnees de temperature et de lumiere seront enregister matin et soir durant l'integralite de l'experience. La disposition des 6 well plates seront egalement changer de place aleatoirement 2 fois par jour (4 et 8h apres exposition a la lumiere) afin de ne pas creer de biais d'intensite lumineuse. 
-L'experimentation sera effectuer jusqu'a visualisation de recutement.  
+Every morning after spawning monitoring, all the plates will be examined under a microscope equipped with a blue fluorescent light to detect any larvae beginning the competency phase. These will be recorded and entered into the Excel table available !!here!!. After examination, the larvae and CCA fragments will be placed in 1 ml tubes filled with DNA-RNA Shield and stored at -40˚C before being sent for RNA and/or microbiome analysis.
+
+After examination and sample storage, the plates will be placed in a bleach solution (20% concentration) for disinfection for 12 hours, then rinsed with DI water and dried for 12 hours.
+
+After these steps, new 6-well plates will be used, and 10 larvae will be placed per well. For each well, a support (CCA, rubble, and plug) will be pre-cut with a Gryphon saw to ensure a similar size between replicates. The size will be 1 cm². Each support will be photographed with a ruler to later calculate the surface area. The placement of the supports will be determined randomly.
+
+The 6-well plates will then be placed in incubators maintained at 26˚C and monitored with temperature probes. An AquaIllumination LED light will be placed in each incubator and adjusted according to the light intensity present in the natural environment.
+
+Temperature and light data will be recorded morning and evening throughout the experiment. The placement of the 6-well plates will also be changed randomly twice a day (4 and 8 hours after exposure to light) to avoid creating light intensity bias.
+
+The experiment will continue until recruitment is observed.
