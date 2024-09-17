@@ -42,9 +42,9 @@ In order to increase recruitment supports, we will also use rubble found at the 
 
 #### Design experimental 
    
-![Design_expe](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/Design_expe.JPG) 
+![design_expe_competency](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/design_expe_competency.jpg) 
 
-Every morning after spawning monitoring, all the plates will be examined under a microscope equipped with a blue fluorescent light to detect any larvae beginning the competency phase. These will be recorded and entered into the Excel table available !!here!!. After examination, the larvae and CCA fragments will be placed in 1 ml tubes filled with DNA-RNA Shield and stored at -40˚C before being sent for RNA and/or microbiome analysis.
+Every morning after spawning monitoring, all the plates will be examined under a microscope equipped with a blue fluorescent light to detect any larvae beginning the competency phase. These will be recorded and entered into the Excel table available [here](https://github.com/PierrickHarnay/Pocillopora-spp-larvae-competency-/tree/main/Data). After examination, the larvae and CCA fragments will be placed in 1 ml tubes filled with DNA-RNA Shield and stored at -40˚C before being sent for RNA and/or microbiome analysis.
 
 After examination and sample storage, the plates will be placed in a bleach solution (20% concentration) for disinfection for 12 hours, then rinsed with DI water and dried for 12 hours.
 
