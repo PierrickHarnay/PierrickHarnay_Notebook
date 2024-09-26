@@ -218,7 +218,7 @@ See plate number for each samples [here](https://github.com/PierrickHarnay/Pocil
 
 *20240925* **Plate 38 and 39**.
 
-See plate number for each samples (only POCID RA not for Ariana's samples)[here](https://github.com/PierrickHarnay/Pocillopora-Lagoon-Abundance/blob/main/Data/POC_ID_RA_list.csv).
+See plate number for each samples [here](https://github.com/PierrickHarnay/Pocillopora-Lagoon-Abundance/blob/main/Data/POC_ID_RA_list.csv).
 
 | Plate          | Sample | Well | ng/ul  | A260/280 | A260/230 |
 |----------------|--------|------|--------|----------|----------|
@@ -226,38 +226,6 @@ See plate number for each samples (only POCID RA not for Ariana's samples)[here]
 | 38             | 814    | A1   | 31     | 1.99     | 2.13     |
 | 38             | 892    | A2   | 45.1   | 1.97     | 1.8      |
 | 38             | 799    | A3   | 24.4   | 2.04     | 1.16     |
-| 38             | AH 180 | H10  | 8.1    | 2.22     | 1.14     |
-| 38             | AH 181 | H11  | 11.8   | 2.12     | 0.57     |
-| 38             | AH 182 | H12  | 6.3    | 2.6      | 0.89     |
-| 39             | AH 183 | A1   | 7.7    | 2.15     | 1.71     |
-| 39             | AH 197 | B1   | 6.1    | 2.5      | 1.16     |
-| 39             | AH 209 | C1   | 13.4   | 2.22     | 1.42     |
-| 39             | AH 25  | F12  | 12.4   | 2.19     | 2.86     |
-| 39             | AH 149 | G12  | 11.7   | 2.19     | 3.71     |
-| 39             | AH 162 | H12  | 6.9    | 2.4      | 4.93     |
-
-*20240925* **Plate 40**.
-
-| Plate          | Sample | Well | ng/ul  | A260/280 | A260/230 |
-|----------------|--------|------|--------|----------|----------|
-| Elution buffer | x      | x    | 0.4    | 1.52     | 0.92     |
-| 40             | AH 163 | A1   | 12.8   | 1.9      | 1.87     |
-| 40             | AH 164 | A2   | 10.3   | 2.02     | 3.33     |
-| 40             | AH 171 | B1   | 8.6    | 2.11     | 2.23     |
-| 40             | AH 215 | H9   | 1.8    | 3.11     | 0.14     |
-| 40             | AH 217 | H10  | 3.7    | 2.94     | 1.03     |
-| 40             | AH 218 | H11  | 1.9    | 6.07     | 0.13     |
-| 40             | AH 220 | H12  | 2.6    | 3.83     | 1.16     |
-
-*20240926* **Plate 41**.
-
-DNA extraction ecxecute with a different way on 20240925. Used **Quick-DNA/RNA MiniPrep Plus Kit / Cat No.: D7003**. Extraction made by Jill. 
-
-| Sample         | ng/ul  | A260/280 | A260/230 |
-|----------------|--------|----------|----------|
-| Elution buffer | 0.1    | .-0.45   | 0.65     |
-| AH 241         | 3.5    | 1.85     | 0.1      |
-| AH 237         | 3.1    | 2.23     | 0.08     |
 
 
 
