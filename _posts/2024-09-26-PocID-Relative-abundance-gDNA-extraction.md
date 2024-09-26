@@ -5,7 +5,7 @@ date: '2024-09-26'
 categories: Processing, Extraction, Pocillopora, Zimo kit
 tags: PocID RA
 ---
-#Relative abundance Pocillopora spp. around the island of Mo'orea
+# Relative abundance Pocillopora spp. around the island of Mo'orea
 
 ## Context:
 Our study is based on population genetics of *Pocillopora sp.* on the Polynesian islands based on their often misleading and incorrect morphology. We are therefore trying to understand population dynamics by **Haplotype** so that we can correlate our transect data with our term tolerance data from the laboratory (see NoteBook TPC Haplotype).   
