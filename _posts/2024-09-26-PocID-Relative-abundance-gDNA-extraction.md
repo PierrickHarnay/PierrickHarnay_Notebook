@@ -21,7 +21,7 @@ Our study is based on population genetics of *Pocillopora sp.* on the Polynesian
 	- Add 10ul PK Digestion buffer + 5ul of Proteinase K.   
 		For 2 plate in a time --> 2.0ml of PK Digestion Buffer + 1.0ml ProtK 
 		
-	- Add 400ul og Genomic Lysis Buffer to 100ul of teh sample/shield mixture.   
+	- Add 400ul of Genomic Lysis Buffer to 100ul of the sample/shield mixture.   
 		For 2 plate in a time --> 400ul x 192 samples = 76.8ml 
 	
 	- Mix completely by vortexing (with pipette in the plate) 4-5 times then let stand 10 minutes 
@@ -227,5 +227,33 @@ See plate number for each samples [here](https://github.com/PierrickHarnay/Pocil
 | 38             | 892    | A2   | 45.1   | 1.97     | 1.8      |
 | 38             | 799    | A3   | 24.4   | 2.04     | 1.16     |
 
+### ZR 96 DNA Clean-up Kit (Cat# D4017 D4018)
+
+#### Protocol:   
+
+1. Reagent preparation: Add 96 ml 100% ethanol (104 ml 95% ethanol) to the 24 ml **DNA Wash Buffer** concentrate. Add 192 ml 100% ethanol (208 ml 95% ethanol) to the 48ml **DNA Wash Buffer** concentrate. 
+
+2. Sample processing: 
+
+- Add 100 µl **DNA Binding Buffer** to PCR sample, Mix, transfer to cullum plate, then add any remaning sample (20µl). 
+    
+- Centrifuge at **3000g** for **5 minutes**   
+
+- Add 300 µl **Wash buffer** to each well   
+
+- Centrifuge at **3000g** for **5 minutes**    
+
+- Add 300 µl at **Wash buffer**   
+
+- Centrifuge at **3000g** for **5 minutes**    
+
+- Add 40µl nuc free water to each well   
+
+- Transfer silicon plate into an evolution plate   
+
+- Centrifuge **3000g** for **3 minutes**
+
+- Done! Store in freezer   
 
 
+    
