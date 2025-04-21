@@ -10,7 +10,7 @@ tags: PocID RA
 ## Context:
 Our study is based on population genetics of *Pocillopora sp.* on the Polynesian islands based on their often misleading and incorrect morphology. We are therefore trying to understand population dynamics by **Haplotype** so that we can correlate our transect data with our term tolerance data from the laboratory (see NoteBook TPC Haplotype).
 
-### **gDNA** extraction with "Quick-DNA 96 Kit / Cat No: [D3012] (https://zymoresearch.eu/products/quick-dna-96-kit)  
+### **gDNA** extraction with "Quick-DNA 96 Kit / Cat No: [D3012](https://zymoresearch.eu/products/quick-dna-96-kit)  
 #### Protocol:   
 
 1. Reagent preparation:
