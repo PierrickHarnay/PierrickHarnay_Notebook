@@ -248,7 +248,10 @@ During the process we used differentes size of gel. For this raison we have list
 -  150ml of **1x TAE Buffer**
 -  1µl of **gelgreen**. 
 
-On each gel add 4µl of **lader** on one side of the gel. On each gel add 4µl of samples in each well. Run the gel at 100V during 35 minutes.   
+On each gel add 4µl of **lader** on one side of the gel. On each gel add 4µl of samples in each well. Run the gel at 100V during 35 minutes. 
+
+#### Layer use for mtORF   
+![QuickLoadpurple_mtORF.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/QuickLoadpurple_mtORF.JPG)  
 
 #### Gel pictures   
 #### *20240411* plate002 gel 001 mtORF after extraction:   
@@ -545,28 +548,266 @@ On each gel add 4µl of **lader** on one side of the gel. On each gel add 4µl o
 
 ### PocHistone and RFLP for species identify as Haplotype 1a (*P. grandis - P. meandrina*): 
 #### Protocol:
+The protocol used comes from Hollie Putnam's LabNotebook and is available [here](https://hputnam.github.io/Putnam_Lab_Notebook/Pocillopora_PocHistone_PCR_RFLP/)
+
+#### Layer use for PocHistone RFLP   
+![QuickLoadpurple_RFLP.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/QuickLoadpurple_RFLP.JPG) 
 
 #### Gel pictures     
-#### *20240303* RFLP 001 gel 1:  
+#### *20240303* PocHistone RFLP 001 gel 1:  
 ![pocHistone001g1.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone001g1.JPG)
 
-#### *20240303* RFLP 001 gel 2:  
+#### *20240303* PocHistone RFLP 001 gel 2:  
 ![pocHistone001g2.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone001g2.JPG)
 
-#### *20240303* RFLP 001 gel 3:  
+#### *20240303* PocHistone RFLP 001 gel 3:  
 ![pocHistone001g3.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone001g3.JPG)
 
-#### *2024xxxx* RFLP 002 gel 1:  
+#### *2024xxxx* PocHistone RFLP 002 gel 1:  
 ![pocHistone002g1.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone002g1.JPG)
 
-#### *2024xxxx* RFLP 002 gel 2:  
+#### *2024xxxx* PocHistone RFLP 002 gel 2:  
 ![pocHistone002g2.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone002g2.JPG)
 
-#### *2024xxxx* RFLP 003 gel 1:  
+#### *2024xxxx* PocHistone RFLP 003 gel 1:  
 ![pocHistone003g1.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone003g1.JPG)
 
-#### *2024xxxx* RFLP 003 gel 2:  
+#### *2024xxxx* PocHistone RFLP 003 gel 2:  
 ![pocHistone003g2.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone003g2.JPG)
 
-#### *2024xxxx* RFLP 003 gel 3:  
+#### *2024xxxx* PocHistone RFLP 003 gel 3:  
 ![pocHistone003g3.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone003g3.JPG)
+
+### Resume of PocHistone RFLP *Haplotype 1a* gel:   
+  
+| *P.   meandrina* | *P. grandis* | Did not work |
+|----------------|------------|--------------|
+| 433            | 456        | 549          |
+| 675            | 601        | 3536         |
+| 451            | 607        | 3872         |
+| 431            | 550        | 3919         |
+| 652            | 458        | 3729         |
+| 602            | 410        | 3751         |
+| 442            | 559        | 3789         |
+| 461            | 422        |       -      |
+| 441            | 557        |       -      |
+| 418            | 726        |       -      |
+| 597            | 559        |       -      |
+| 440            | 683        |       -      |
+| 429            | 689        |       -      |
+| 603            | 670        |       -      |
+| 605            | 3559       |       -      |
+| 439            | 3549       |       -      |
+| 400            | 667        |       -      |
+| 427            | 3735       |       -      |
+| 573            | 3613       |       -      |
+| 575            | 3536       |       -      |
+| 426            | 1447       |       -      |
+| 606            | 3531       |       -      |
+| 556            | 3621       |       -      |
+| 528            | 3732       |       -      |
+| 479            | 3535       |       -      |
+| 448            | 3549       |       -      |
+| 412            | 3559       |       -      |
+| 424            | 3613       |       -      |
+| 411            | 3709       |       -      |
+| 449            | 3787       |       -      |
+| 434            | 3793       |       -      |
+| 592            | 3949       |       -      |
+| 445            | 3680       |       -      |
+| 604            | 3641       |       -      |
+| 614            | 3692       |       -      |
+| 726            | 3735       |       -      |
+| 3617           | 3736       |       -      |
+| 2550           | 3879       |       -      |
+| 676            | 3757       |       -      |
+| 3724           | 3777       |       -      |
+| 3707           | 3782       |       -      |
+| 668            | 3807       |       -      |
+| 3532           | 3812       |       -      |
+| 596            | 3895       |       -      |
+| 685            |      -     |       -      |
+| 680            |      -     |       -      |
+| 725            |      -     |       -      |
+| 3723           |      -     |       -      |
+| 723            |      -     |       -      |
+| 3615           |      -     |       -      |
+| 3726           |      -     |       -      |
+| 721            |      -     |       -      |
+| 3710           |      -     |       -      |
+| 3686           |      -     |       -      |
+| 3592           |      -     |       -      |
+| 3629           |      -     |       -      |
+| 535            |      -     |       -      |
+| 703            |      -     |       -      |
+| 3552           |      -     |       -      |
+| 3627           |      -     |       -      |
+| 3602           |      -     |       -      |
+| 702            |      -     |       -      |
+| 666            |      -     |       -      |
+| 3610           |      -     |       -      |
+| 684            |      -     |       -      |
+| 2189           |      -     |       -      |
+| 2185           |      -     |       -      |
+| 2205           |      -     |       -      |
+| 2186           |      -     |       -      |
+| 2213           |      -     |       -      |
+| 2192           |      -     |       -      |
+| 2184           |      -     |       -      |
+| 1423           |      -     |       -      |
+| 3537           |      -     |       -      |
+| 3553           |      -     |       -      |
+| 3558           |      -     |       -      |
+| 3622           |      -     |       -      |
+| 3626           |      -     |       -      |
+| 3628           |      -     |       -      |
+| 3706           |      -     |       -      |
+| 3713           |      -     |       -      |
+| 3719           |      -     |       -      |
+| 3728           |      -     |       -      |
+| 3732           |      -     |       -      |
+| 3685           |      -     |       -      |
+| 3703           |      -     |       -      |
+| 3759           |      -     |       -      |
+| 3769           |      -     |       -      |
+| 3843           |      -     |       -      |
+| 3871           |      -     |       -      |
+| 3881           |      -     |       -      |
+| 3522           |      -     |       -      |
+| 3550           |      -     |       -      |
+| 3552           |      -     |       -      |
+| 3592           |      -     |       -      |
+| 3602           |      -     |       -      |
+| 3610           |      -     |       -      |
+| 3615           |      -     |       -      |
+| 3617           |      -     |       -      |
+| 3627           |      -     |       -      |
+| 3629           |      -     |       -      |
+| 3707           |      -     |       -      |
+| 3710           |      -     |       -      |
+| 3724           |      -     |       -      |
+| 3726           |      -     |       -      |
+| 3544           |      -     |       -      |
+| 3545           |      -     |       -      |
+| 3548           |      -     |       -      |
+| 3595           |      -     |       -      |
+| 3600           |      -     |       -      |
+| 3624           |      -     |       -      |
+| 3633           |      -     |       -      |
+| 3635           |      -     |       -      |
+| 3643           |      -     |       -      |
+| 3711           |      -     |       -      |
+| 3720           |      -     |       -      |
+| 3691           |      -     |       -      |
+| 3696           |      -     |       -      |
+| 3699           |      -     |       -      |
+| 3733           |      -     |       -      |
+| 3734           |      -     |       -      |
+| 3742           |      -     |       -      |
+| 3747           |      -     |       -      |
+| 3751           |      -     |       -      |
+| 3755           |      -     |       -      |
+| 3758           |      -     |       -      |
+| 3764           |      -     |       -      |
+| 3770           |      -     |       -      |
+| 3818           |      -     |       -      |
+| 3839           |      -     |       -      |
+| 3850           |      -     |       -      |
+| 3856           |      -     |       -      |
+| 3860           |      -     |       -      |
+| 3862           |      -     |       -      |
+| 3874           |      -     |       -      |
+| 3884           |      -     |       -      |
+| 3808           |      -     |       -      |
+| 3809           |      -     |       -      |
+| 3818           |      -     |       -      |
+| 3827           |      -     |       -      |
+| 3890           |      -     |       -      |
+| 3903           |      -     |       -      |
+| 3904           |      -     |       -      |
+| 3908           |      -     |       -      |
+| 3914           |      -     |       -      |
+| 3915           |      -     |       -      |
+| 3918           |      -     |       -      |
+| 3942           |      -     |       -      |
+| 3591           |      -     |       -      |
+| 3601           |      -     |       -      |
+| 3609           |      -     |       -      |
+| 3715           |      -     |       -      |
+| 3686           |      -     |       -      |
+| 3688           |      -     |       -      |
+| 3698           |      -     |       -      |
+| 3700           |      -     |       -      |
+| 3701           |      -     |       -      |
+| 3737           |      -     |       -      |
+| 3744           |      -     |       -      |
+| 3745           |      -     |       -      |
+| 3746           |      -     |       -      |
+| 3750           |      -     |       -      |
+| 3761           |      -     |       -      |
+| 3765           |      -     |       -      |
+| 3767           |      -     |       -      |
+| 3772           |      -     |       -      |
+| 3833           |      -     |       -      |
+| 3836           |      -     |       -      |
+| 3846           |      -     |       -      |
+| 3848           |      -     |       -      |
+| 3852           |      -     |       -      |
+| 3863           |      -     |       -      |
+| 3864           |      -     |       -      |
+| 3865           |      -     |       -      |
+| 3869           |      -     |       -      |
+| 3873           |      -     |       -      |
+| 3877           |      -     |       -      |
+| 3885           |      -     |       -      |
+| 3739           |      -     |       -      |
+| 3741           |      -     |       -      |
+| 3743           |      -     |       -      |
+| 3766           |      -     |       -      |
+| 3771           |      -     |       -      |
+| 3834           |      -     |       -      |
+| 3835           |      -     |       -      |
+| 3837           |      -     |       -      |
+| 3841           |      -     |       -      |
+| 3847           |      -     |       -      |
+| 3854           |      -     |       -      |
+| 3855           |      -     |       -      |
+| 3859           |      -     |       -      |
+| 3866           |      -     |       -      |
+| 3887           |      -     |       -      |
+| 3889           |      -     |       -      |
+| 3774           |      -     |       -      |
+| 3776           |      -     |       -      |
+| 3783           |      -     |       -      |
+| 3784           |      -     |       -      |
+| 3785           |      -     |       -      |
+| 3786           |      -     |       -      |
+| 3788           |      -     |       -      |
+| 3795           |      -     |       -      |
+| 3797           |      -     |       -      |
+| 3798           |      -     |       -      |
+| 3800           |      -     |       -      |
+| 3803           |      -     |       -      |
+| 3806           |      -     |       -      |
+| 3811           |      -     |       -      |
+| 3816           |      -     |       -      |
+| 3817           |      -     |       -      |
+| 3823           |      -     |       -      |
+| 3824           |      -     |       -      |
+| 3829           |      -     |       -      |
+| 3830           |      -     |       -      |
+| 3897           |      -     |       -      |
+| 3912           |      -     |       -      |
+| 3913           |      -     |       -      |
+| 3917           |      -     |       -      |
+| 3934           |      -     |       -      |
+| 3935           |      -     |       -      |
+| 3937           |      -     |       -      |
+| 3934           |      -     |       -      |
+| 3935           |      -     |       -      |
+| 3937           |      -     |       -      |
+| 3938           |      -     |       -      |
+| 3943           |      -     |       -      |
+| 3945           |      -     |       -      |
+| 3789           |      -     |       -      |
+| 3804           |      -     |       -      |
