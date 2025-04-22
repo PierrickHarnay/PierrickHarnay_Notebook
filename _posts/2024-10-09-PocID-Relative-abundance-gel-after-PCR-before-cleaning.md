@@ -546,4 +546,27 @@ On each gel add 4µl of **lader** on one side of the gel. On each gel add 4µl o
 ### PocHistone and RFLP for species identify as Haplotype 1a (*P. grandis - P. meandrina*): 
 #### Protocol:
 
+#### Gel pictures     
+#### *20240303* RFLP 001 gel 1:  
+![pocHistone001g1.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone001g1.JPG)
 
+#### *20240303* RFLP 001 gel 2:  
+![pocHistone001g2.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone001g2.JPG)
+
+#### *20240303* RFLP 001 gel 3:  
+![pocHistone001g3.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone001g3.JPG)
+
+#### *2024xxxx* RFLP 002 gel 1:  
+![pocHistone002g1.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone002g1.JPG)
+
+#### *2024xxxx* RFLP 002 gel 2:  
+![pocHistone002g2.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone002g2.JPG)
+
+#### *2024xxxx* RFLP 003 gel 1:  
+![pocHistone003g1.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone003g1.JPG)
+
+#### *2024xxxx* RFLP 003 gel 2:  
+![pocHistone003g2.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone003g2.JPG)
+
+#### *2024xxxx* RFLP 003 gel 3:  
+![pocHistone003g3.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone003g3.JPG)
