@@ -578,6 +578,15 @@ The protocol used comes from Hollie Putnam's LabNotebook and is available [here]
 #### *2024xxxx* PocHistone RFLP 003 gel 3:  
 ![pocHistone003g3.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone003g3.JPG)
 
+#### *20250804* PocHistone RFLP 005 gel 1:
+![pocHistone005g1.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone005g1.JPG)
+
+#### *20250804* PocHistone RFLP 005 gel 2:
+![pocHistone005g2.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone005g2.JPG)
+
+#### *20250804* PocHistone RFLP 005 gel 3:
+![pocHistone005g3.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone005g3.JPG)
+
 ### Resume of PocHistone RFLP *Haplotype 1a* gel:   
   
 | *P.   meandrina* | *P. grandis* | Did not work |
@@ -626,22 +635,22 @@ The protocol used comes from Hollie Putnam's LabNotebook and is available [here]
 | 668            | 3807       |       -      |
 | 3532           | 3812       |       -      |
 | 596            | 3895       |       -      |
-| 685            |      -     |       -      |
-| 680            |      -     |       -      |
-| 725            |      -     |       -      |
-| 3723           |      -     |       -      |
-| 723            |      -     |       -      |
-| 3615           |      -     |       -      |
-| 3726           |      -     |       -      |
-| 721            |      -     |       -      |
-| 3710           |      -     |       -      |
-| 3686           |      -     |       -      |
-| 3592           |      -     |       -      |
-| 3629           |      -     |       -      |
-| 535            |      -     |       -      |
-| 703            |      -     |       -      |
-| 3552           |      -     |       -      |
-| 3627           |      -     |       -      |
+| 685            | 1693       |       -      |
+| 680            | 1704       |       -      |
+| 725            | 1705       |       -      |
+| 3723           | 1706       |       -      |
+| 723            | 1709       |       -      |
+| 3615           | 1710       |       -      |
+| 3726           | 1656       |       -      |
+| 721            | 1657       |       -      |
+| 3710           | 1660       |       -      |
+| 3686           | 1668       |       -      |
+| 3592           | 1672       |       -      |
+| 3629           | 1684       |       -      |
+| 535            | 1590       |       -      |
+| 703            | 1592       |       -      |
+| 3552           | 1629       |       -      |
+| 3627           | 1648       |       -      |
 | 3602           |      -     |       -      |
 | 702            |      -     |       -      |
 | 666            |      -     |       -      |
@@ -811,3 +820,66 @@ The protocol used comes from Hollie Putnam's LabNotebook and is available [here]
 | 3945           |      -     |       -      |
 | 3789           |      -     |       -      |
 | 3804           |      -     |       -      |
+| 1561           |      -     |       -      |
+| 1563           |      -     |       -      |
+| 1565           |      -     |       -      |
+| 1567           |      -     |       -      |
+| 1569           |      -     |       -      |
+| 1570           |      -     |       -      |
+| 1572           |      -     |       -      |
+| 1573           |      -     |       -      |
+| 1575           |      -     |       -      |
+| 1577           |      -     |       -      |
+| 1580           |      -     |       -      |
+| 1581           |      -     |       -      |
+| 1583           |      -     |       -      |
+| 1584           |      -     |       -      |
+| 1587           |      -     |       -      |
+| 1593           |      -     |       -      |
+| 1598           |      -     |       -      |
+| 1599           |      -     |       -      |
+| 1606           |      -     |       -      |
+| 1607           |      -     |       -      |
+| 1608           |      -     |       -      |
+| 1610           |      -     |       -      |
+| 1612           |      -     |       -      |
+| 1618           |      -     |       -      |
+| 1620           |      -     |       -      |
+| 1621           |      -     |       -      |
+| 1624           |      -     |       -      |
+| 1626           |      -     |       -      |
+| 1627           |      -     |       -      |
+| 1628           |      -     |       -      |
+| 1635           |      -     |       -      |
+| 1636           |      -     |       -      |
+| 1638           |      -     |       -      |
+| 1641           |      -     |       -      |
+| 1643           |      -     |       -      |
+| 1644           |      -     |       -      |
+| 1645           |      -     |       -      |
+| 1647           |      -     |       -      |
+| 1648 S2T1           |      -     |       -      |
+| 1649           |      -     |       -      |
+| 1650           |      -     |       -      |
+| 1651           |      -     |       -      |
+| 1653           |      -     |       -      |
+| 1654           |      -     |       -      |
+| 1655           |      -     |       -      |
+| 1658           |      -     |       -      |
+| 1659           |      -     |       -      |
+| 1661           |      -     |       -      |
+| 1662           |      -     |       -      |
+| 1663           |      -     |       -      |
+| 1666           |      -     |       -      |
+| 1671           |      -     |       -      |
+| 1673           |      -     |       -      |
+| 1675           |      -     |       -      |
+| 1680           |      -     |       -      |
+| 1685           |      -     |       -      |
+| 1686           |      -     |       -      |
+| 1689           |      -     |       -      |
+| 1691           |      -     |       -      |
+| 1700           |      -     |       -      |
+| 1704           |      -     |       -      |
+| 1705           |      -     |       -      |
+| 1711           |      -     |       -      |
