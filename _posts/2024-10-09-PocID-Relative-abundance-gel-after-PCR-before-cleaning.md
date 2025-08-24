@@ -596,14 +596,14 @@ The protocol used comes from Hollie Putnam's LabNotebook and is available [here]
 #### *20250819* PocHistone RFLP 007 gel 3:
 ![pocHistone007g3.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone007g3.JPG)
 
-#### *20250820* PocHistone RFLP 005 gel 1:
-![pocHistone007g1.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone005g1_20250820.JPG)
+#### *20250820* PocHistone RFLP 006 gel 1:
+![pocHistone007g1.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone006g1_20250820.JPG)
 
-#### *20250820* PocHistone RFLP 005 gel 2:
-![pocHistone007g2.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone005g2_20250820.JPG)
+#### *20250820* PocHistone RFLP 006 gel 2:
+![pocHistone007g2.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone006g2_20250820.JPG)
 
-#### *20250820* PocHistone RFLP 005 gel 3:
-![pocHistone007g3.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone005g3_20250820.JPG)
+#### *20250820* PocHistone RFLP 006 gel 3:
+![pocHistone007g3.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone006g3_20250820.JPG)
 ### Resume of PocHistone RFLP *Haplotype 1a* gel:   
   
 | *P.   meandrina* | *P. grandis* | Did not work |
