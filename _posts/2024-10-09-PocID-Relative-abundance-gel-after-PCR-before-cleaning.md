@@ -682,7 +682,7 @@ The protocol used comes from Hollie Putnam's LabNotebook and is available [here]
 | *P.   meandrina* | *P. grandis* | *Did not work* |
 |----------------|------------|--------------|
 | 433            | 456        | 549          |
-| 675            | 601        | 3536         |
+| 675            | 601        |          |
 | 451            | 607        | 3872         |
 | 431            | 550        | 3919         |
 | 652            | 458        | 3729         |
