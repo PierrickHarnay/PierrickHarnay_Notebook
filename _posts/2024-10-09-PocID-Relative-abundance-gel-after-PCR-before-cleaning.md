@@ -687,13 +687,13 @@ The protocol used comes from Hollie Putnam's LabNotebook and is available [here]
 ![PocHistone_004_g3_20250827.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_004_g3_20250827.JPG)
 
 #### *20250827* PocHistone RFLP 004 gel 1:
-![PocHistone_RFLP_010_g1_20250823.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_RFLP_010_g1_20250823.JPG)
+![](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/)
 
 #### *20250827* PocHistone RFLP 004 gel 2:
-![PocHistone_RFLP_010_g2_20250823.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_RFLP_010_g2_20250823.JPG)
+![](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/)
 
 #### *20250827* PocHistone RFLP 004 gel 3:
-![PocHistone_RFLP_010_g3_20250823.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_RFLP_010_g3_20250823.JPG)   
+![](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/)   
 
 ### Resume of PocHistone RFLP *Haplotype 1a* gel:   
   
