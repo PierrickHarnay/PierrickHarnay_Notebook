@@ -687,13 +687,31 @@ The protocol used comes from Hollie Putnam's LabNotebook and is available [here]
 ![PocHistone_004_g3_20250827.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_004_g3_20250827.JPG)
 
 #### *20250827* PocHistone RFLP 004 gel 1:
-![](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/)
+![PocHistone_RFLP_004_g1_20250829.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_RFLP_004_g1_20250829.JPG)
 
 #### *20250827* PocHistone RFLP 004 gel 2:
-![](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/)
+![PocHistone_RFLP_004_g2_20250829.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_RFLP_004_g2_20250829.JPG)
 
 #### *20250827* PocHistone RFLP 004 gel 3:
-![](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/)   
+![PocHistone_RFLP_004_g3_20250829.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_RFLP_004_g3_20250829.JPG)
+
+#### *20250902* PocHistone 011 gel 1:
+![PocHistone_011_g1_20250902.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_011_g1_20250902.JPG)
+
+#### *20250902* PocHistone 011 gel 2:
+![PocHistone_011_g2_20250902.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_011_g2_20250902.JPG)
+
+#### *20250902* PocHistone 011 gel 3:
+![PocHistone_011_g3_20250902.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_011_g3_20250902.JPG)
+
+#### *202500902* PocHistone RFLP 011 gel 1:
+![PocHistone_RFLP_011_g1_20250902.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_RFLP_011_g1_20250902.JPG)
+
+#### *20250902* PocHistone RFLP 011 gel 2:
+![PocHistone_RFLP_011_g2_20250902.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_RFLP_011_g2_20250902.JPG)
+
+#### *20250902* PocHistone RFLP 011 gel 3:
+![PocHistone_RFLP_011_g3_20250902.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_RFLP_011_g3_20250902.JPG)   
 
 ### Resume of PocHistone RFLP *Haplotype 1a* gel:   
   
