@@ -515,6 +515,24 @@ On each gel add 4µl of **lader** on one side of the gel. On each gel add 4µl o
 #### *20241002* plate039 gel 002 mtORF after extraction:  
 ![P39g2.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/P39g2.JPG)
 
+#### *20250908* mtORF 002 gel 1 for resenquence the plate:  
+![mtORF_002_g1_20250908.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/mtORF_002_g1_20250908.JPG)
+
+#### *20250908* mtORF 002 gel 2 for resenquence the plate:  
+![mtORF_002_g2_20250908.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/mtORF_002_g2_20250908.JPG)
+
+#### *20250908* mtORF 002 gel 3 for resenquence the plate:  
+![mtORF_002_g3_20250908.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/mtORF_002_g3_20250908.JPG)
+
+#### *20250908* mtORF 003 gel 1 for resenquence the plate:  
+![mtORF_003_g1_20250908.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/mtORF_003_g1_20250908.JPG)
+
+#### *20250908* mtORF 003 gel 2 for resenquence the plate:  
+![mtORF_003_g2_20250908.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/mtORF_003_g2_20250908.JPG)
+
+#### *20250908* mtORF 003 gel 3 for resenquence the plate:  
+![mtORF_003_g3_20250908.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/mtORF_003_g3_20250908.JPG)
+
 ### ZR 96 DNA Clean-up Kit Cat No [D4017 D4018](https://zymoresearch.eu/products/zr-96-dna-clean-up-kit)
 #### Protocol:   
 
@@ -731,7 +749,119 @@ The protocol used comes from Hollie Putnam's LabNotebook and is available [here]
 #### *20250903* PocHistone RFLP 012 gel 3:
 ![PocHistone_RFLP_012_g3_20250903.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_RFLP_012_g3_20250903.JPG) 
 
-### Resume of PocHistone RFLP *Haplotype 1a* gel failure:
+#### *20250904* PocHistone 013 gel 1:
+![PocHistone_013_g1_20250904.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_013_g1_20250904.JPG)
 
-**549, 3872, 3919, 3729, 3751, 3789, 1836, 1840.**   
+#### *20250904* PocHistone 013 gel 2:
+![PocHistone_012_g2_20250904.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_012_g2_20250904.JPG)
+
+#### *20250904* PocHistone 013 gel 3:
+![PocHistone_013_g3_20250904.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_013_g3_20250904.JPG)  
+
+#### *20250904* PocHistone RFLP 013 gel 1:
+![PocHistone_RFLP_013_g1_20250904.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_013_g1_20250904.JPG)
+
+#### *20250904* PocHistone RFLP 013 gel 2:
+![PocHistone_RFLP_013_g2_20250904.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_013_g2_20250904.JPG)
+
+#### *20250904* PocHistone RFLP 013 gel 3:
+![PocHistone_RFLP_013_g3_20250904.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_013_g3_20250904.JPG) 
+
+#### *20250905* PocHistone 014 gel 1:
+![PocHistone_014_g1_20250905.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_014_g1_20250905.JPG)
+
+#### *20250905* PocHistone 014 gel 2:
+![PocHistone_014_g2_20250905.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_014_g2_20250905.JPG)
+
+#### *20250905* PocHistone 014 gel 3:
+![PocHistone_014_g3_20250905.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_014_g3_20250905.JPG)  
+
+#### *20250905* PocHistone RFLP 014 gel 1:
+![PocHistone_RFLP_014_g1_20250905.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_014_g1_20250905.JPG)
+
+#### *20250905* PocHistone RFLP 014 gel 2:
+![PocHistone_RFLP_014_g2_20250905.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_014_g2_20250905.JPG)
+
+#### *20250905* PocHistone RFLP 014 gel 3:
+![PocHistone_RFLP_014_g3_20250905.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_014_g3_20250905.JPG) 
+
+#### *20250905* PocHistone 015 gel 1:
+![PocHistone_015_g1_20250905.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_015_g1_20250905.JPG)
+
+#### *20250905* PocHistone 015 gel 2:
+![PocHistone_015_g2_20250905.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_015_g2_20250905.JPG)
+
+#### *20250905* PocHistone 015 gel 3:
+![PocHistone_015_g3_20250905.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_015_g3_20250905.JPG)  
+
+#### *20250906* PocHistone RFLP 015 gel 1:
+![PocHistone_RFLP_015_g1_20250906.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_015_g1_20250906.JPG)
+
+#### *20250906* PocHistone RFLP 015 gel 2:
+![PocHistone_RFLP_015_g2_20250906.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_015_g2_20250906.JPG)
+
+#### *20250906* PocHistone RFLP 015 gel 3:
+![PocHistone_RFLP_015_g3_20250906.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_015_g3_20250906.JPG) 
+
+#### *20250909* PocHistone 016 gel 1:
+![PocHistone_016_g1_20250909.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_016_g1_20250909.JPG)
+
+#### *20250909* PocHistone 016 gel 2:
+![PocHistone_016_g2_20250909.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_016_g2_20250909.JPG)
+
+#### *20250909* PocHistone 016 gel 3:
+![PocHistone_016_g3_20250909.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_016_g3_20250909.JPG)  
+
+#### *20250909* PocHistone RFLP 016 gel 1:
+![PocHistone_RFLP_016_g1_20250909.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_016_g1_20250909.JPG)
+
+#### *20250909* PocHistone RFLP 016 gel 2:
+![PocHistone_RFLP_016_g2_20250909.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_016_g2_20250909.JPG)
+
+#### *20250909* PocHistone RFLP 016 gel 3:
+![PocHistone_RFLP_016_g3_20250909.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_016_g3_20250909.JPG) 
+
+#### *20250909* PocHistone 017 gel 1:
+![PocHistone_017_g1_20250909.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_017_g1_20250909.JPG)
+
+#### *20250909* PocHistone 017 gel 2:
+![PocHistone_017_g2_20250909.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_017_g2_20250909.JPG)
+
+#### *20250909* PocHistone 017 gel 3:
+![PocHistone_017_g3_20250909.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_017_g3_20250909.JPG)  
+
+#### *20250910* PocHistone RFLP 017 gel 1:
+![PocHistone_RFLP_017_g1_20250910.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_017_g1_20250910.JPG)
+
+#### *20250910* PocHistone RFLP 017 gel 2:
+![PocHistone_RFLP_017_g2_20250910.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_017_g2_20250910.JPG)
+
+#### *20250910* PocHistone RFLP 017 gel 3:
+![PocHistone_RFLP_017_g3_20250910.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_017_g3_20250910.JPG)
+
+#### *20250910* PocHistone 018 gel 1:
+![PocHistone_018_g1_20250910.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_018_g1_20250910.JPG)
+
+#### *20250910* PocHistone 018 gel 2:
+![PocHistone_018_g2_20250910.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_018_g2_20250910.JPG)
+
+#### *20250910* PocHistone 018 gel 3:
+![PocHistone_018_g3_20250910.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_018_g3_20250910.JPG)  
+
+#### *20250910* PocHistone RFLP 018 gel 1:
+![PocHistone_RFLP_018_g1_20250910.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_018_g1_20250910.JPG)
+
+#### *20250910* PocHistone RFLP 018 gel 2:
+![PocHistone_RFLP_018_g2_20250910.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_018_g2_20250910.JPG)
+
+#### *20250910* PocHistone RFLP 018 gel 3:
+![PocHistone_RFLP_018_g3_20250910.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_018_g3_20250910.JPG)
+
+#### *20250911* PocHistone 019 gel 1:
+![PocHistone_019_20250911.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_019_20250911.JPG)
+
+#### *20250913* PocHistone RFLP 019 gel 3:
+![PocHistone_RFLP_019_20250913.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_019_20250913.JPG)
+
+
   
