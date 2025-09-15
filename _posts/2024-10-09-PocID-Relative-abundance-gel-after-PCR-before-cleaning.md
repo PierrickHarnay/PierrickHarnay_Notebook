@@ -615,13 +615,13 @@ The protocol used comes from Hollie Putnam's LabNotebook and is available [here]
 ![PocHistone_007_g3_20250817.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_007_g3_20250817.JPG)
 
 #### *20250817* PocHistone RFLP 007 gel 1:
-![pocHistone007g1.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone007g1.JPG)
+![pocHistone_RFLP_007_g1_20250817.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone_RFLP_007_g1_20250817.JPG)
 
 #### *20250817* PocHistone RFLP 007 gel 2:
-![pocHistone007g2.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone007g2.JPG)
+![pocHistone_RFLP_007_g2_20250817.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone_RFLP_007_g2_20250817.JPG)
 
 #### *20250817* PocHistone RFLP 007 gel 3:
-![pocHistone007g3.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone007g3.JPG)
+![pocHistone_RFLP_007_g3_20250817.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/pocHistone_RFLP_007_g3_20250817.JPG)
 
 #### *20250819* PocHistone 006 gel 1:
 ![PocHistone_006_g1_20250819.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_006_g1_20250819.JPG)
@@ -759,13 +759,13 @@ The protocol used comes from Hollie Putnam's LabNotebook and is available [here]
 ![PocHistone_013_g3_20250904.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_013_g3_20250904.JPG)  
 
 #### *20250904* PocHistone RFLP 013 gel 1:
-![PocHistone_RFLP_013_g1_20250904.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_013_g1_20250904.JPG)
+![PocHistone_RFLP_013_g1_20250904.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_RFLP_013_g1_20250904.JPG)
 
 #### *20250904* PocHistone RFLP 013 gel 2:
-![PocHistone_RFLP_013_g2_20250904.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_013_g2_20250904.JPG)
+![PocHistone_RFLP_013_g2_20250904.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_RFLP_013_g2_20250904.JPG)
 
 #### *20250904* PocHistone RFLP 013 gel 3:
-![PocHistone_RFLP_013_g3_20250904.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_013_g3_20250904.JPG) 
+![PocHistone_RFLP_013_g3_20250904.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_RFLP_013_g3_20250904.JPG) 
 
 #### *20250905* PocHistone 014 gel 1:
 ![PocHistone_014_g1_20250905.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_014_g1_20250905.JPG)
@@ -777,13 +777,13 @@ The protocol used comes from Hollie Putnam's LabNotebook and is available [here]
 ![PocHistone_014_g3_20250905.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_014_g3_20250905.JPG)  
 
 #### *20250905* PocHistone RFLP 014 gel 1:
-![PocHistone_RFLP_014_g1_20250905.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_014_g1_20250905.JPG)
+![PocHistone_RFLP_014_g1_20250905.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_RFLP_014_g1_20250905.JPG)
 
 #### *20250905* PocHistone RFLP 014 gel 2:
-![PocHistone_RFLP_014_g2_20250905.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_014_g2_20250905.JPG)
+![PocHistone_RFLP_014_g2_20250905.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_RFLP_014_g2_20250905.JPG)
 
 #### *20250905* PocHistone RFLP 014 gel 3:
-![PocHistone_RFLP_014_g3_20250905.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_014_g3_20250905.JPG) 
+![PocHistone_RFLP_014_g3_20250905.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_RFLP_014_g3_20250905.JPG) 
 
 #### *20250905* PocHistone 015 gel 1:
 ![PocHistone_015_g1_20250905.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_015_g1_20250905.JPG)
@@ -795,13 +795,13 @@ The protocol used comes from Hollie Putnam's LabNotebook and is available [here]
 ![PocHistone_015_g3_20250905.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_015_g3_20250905.JPG)  
 
 #### *20250906* PocHistone RFLP 015 gel 1:
-![PocHistone_RFLP_015_g1_20250906.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_015_g1_20250906.JPG)
+![PocHistone_RFLP_015_g1_20250906.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_RFLP_015_g1_20250906.JPG)
 
 #### *20250906* PocHistone RFLP 015 gel 2:
-![PocHistone_RFLP_015_g2_20250906.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_015_g2_20250906.JPG)
+![PocHistone_RFLP_015_g2_20250906.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_RFLP_015_g2_20250906.JPG)
 
 #### *20250906* PocHistone RFLP 015 gel 3:
-![PocHistone_RFLP_015_g3_20250906.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_015_g3_20250906.JPG) 
+![PocHistone_RFLP_015_g3_20250906.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_RFLP_015_g3_20250906.JPG) 
 
 #### *20250909* PocHistone 016 gel 1:
 ![PocHistone_016_g1_20250909.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_016_g1_20250909.JPG)
@@ -813,13 +813,13 @@ The protocol used comes from Hollie Putnam's LabNotebook and is available [here]
 ![PocHistone_016_g3_20250909.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_016_g3_20250909.JPG)  
 
 #### *20250909* PocHistone RFLP 016 gel 1:
-![PocHistone_RFLP_016_g1_20250909.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_016_g1_20250909.JPG)
+![PocHistone_RFLP_016_g1_20250909.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_RFLP_016_g1_20250909.JPG)
 
 #### *20250909* PocHistone RFLP 016 gel 2:
-![PocHistone_RFLP_016_g2_20250909.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_016_g2_20250909.JPG)
+![PocHistone_RFLP_016_g2_20250909.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_RFLP_016_g2_20250909.JPG)
 
 #### *20250909* PocHistone RFLP 016 gel 3:
-![PocHistone_RFLP_016_g3_20250909.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_016_g3_20250909.JPG) 
+![PocHistone_RFLP_016_g3_20250909.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_RFLP_016_g3_20250909.JPG) 
 
 #### *20250909* PocHistone 017 gel 1:
 ![PocHistone_017_g1_20250909.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_017_g1_20250909.JPG)
@@ -831,13 +831,13 @@ The protocol used comes from Hollie Putnam's LabNotebook and is available [here]
 ![PocHistone_017_g3_20250909.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_017_g3_20250909.JPG)  
 
 #### *20250910* PocHistone RFLP 017 gel 1:
-![PocHistone_RFLP_017_g1_20250910.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_017_g1_20250910.JPG)
+![PocHistone_RFLP_017_g1_20250910.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_RFLP_017_g1_20250910.JPG)
 
 #### *20250910* PocHistone RFLP 017 gel 2:
-![PocHistone_RFLP_017_g2_20250910.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_017_g2_20250910.JPG)
+![PocHistone_RFLP_017_g2_20250910.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_RFLP_017_g2_20250910.JPG)
 
 #### *20250910* PocHistone RFLP 017 gel 3:
-![PocHistone_RFLP_017_g3_20250910.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_017_g3_20250910.JPG)
+![PocHistone_RFLP_017_g3_20250910.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_RFLP_017_g3_20250910.JPG)
 
 #### *20250910* PocHistone 018 gel 1:
 ![PocHistone_018_g1_20250910.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_018_g1_20250910.JPG)
@@ -849,19 +849,19 @@ The protocol used comes from Hollie Putnam's LabNotebook and is available [here]
 ![PocHistone_018_g3_20250910.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_018_g3_20250910.JPG)  
 
 #### *20250910* PocHistone RFLP 018 gel 1:
-![PocHistone_RFLP_018_g1_20250910.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_018_g1_20250910.JPG)
+![PocHistone_RFLP_018_g1_20250910.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_RFLP_018_g1_20250910.JPG)
 
 #### *20250910* PocHistone RFLP 018 gel 2:
-![PocHistone_RFLP_018_g2_20250910.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_018_g2_20250910.JPG)
+![PocHistone_RFLP_018_g2_20250910.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_RFLP_018_g2_20250910.JPG)
 
 #### *20250910* PocHistone RFLP 018 gel 3:
-![PocHistone_RFLP_018_g3_20250910.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_018_g3_20250910.JPG)
+![PocHistone_RFLP_018_g3_20250910.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_RFLP_018_g3_20250910.JPG)
 
 #### *20250911* PocHistone 019 gel 1:
 ![PocHistone_019_20250911.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_019_20250911.JPG)
 
 #### *20250913* PocHistone RFLP 019 gel 3:
-![PocHistone_RFLP_019_20250913.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_019_20250913.JPG)
+![PocHistone_RFLP_019_20250913.JPG](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/PocHistone_RFLP_019_20250913.JPG)
 
 
   
